@@ -1,0 +1,1201 @@
+Transaction_ID,Order_Date,Region,Customer_ID,Customer_Age,Gender,Product_Category,Product,Quantity,Unit_Price,Discount_Rate,Sales_Amount,Payment_Method
+T00381,02-01-2025,West,C0123,61,Female,Beauty & Personal Care,Perfume,1,69.79,0.2,55.83,UPI
+T00773,02-01-2025,South,C0068,19,Male,Beauty & Personal Care,Face Cleanser,3,15.27,0.05,43.53,Cash
+T00901,02-01-2025,East,C0343,51,Female,Home & Living,Home Decor,3,56.97,0,170.92,Card
+T00845,02-01-2025,North,C0283,39,Female,Clothing,Women's Jacket,3,88.46,0,265.37,Card
+T00846,02-01-2025,East,C0119,23,Female,Sports & Outdoors,Water Bottle,2,21.23,0,42.47,UPI
+T00465,03-01-2025,South,C0043,53,Male,Home & Living,Home Decor,4,57.26,0.1,206.15,Net Banking
+T00104,03-01-2025,West,C0347,42,Male,Electronics,Laptop,2,675.92,0.1,1216.65,UPI
+T01190,03-01-2025,North,C0279,48,Female,Home & Living,Home Decor,2,63.63,0.1,114.54,Card
+T00707,03-01-2025,East,C0310,48,Male,Sports & Outdoors,Yoga Mat,4,28.51,0.2,91.22,Cash
+T00575,03-01-2025,South,C0247,58,Male,Clothing,Men's Jeans,1,40.9,0.2,32.72,Card
+T00303,04-01-2025,North,C0153,47,Male,Beauty & Personal Care,Skincare Set,4,44.27,0,177.07,Card
+T01070,04-01-2025,West,C0109,57,Male,Electronics,Headphones,3,86.01,0.15,219.31,Card
+T01175,04-01-2025,East,C0225,62,Female,Home & Living,Home Decor,5,58.55,0.05,278.12,Card
+T00790,05-01-2025,North,C0279,47,Male,Clothing,T-Shirt,2,19.45,0.1,35.01,Net Banking
+T00801,05-01-2025,South,C0140,19,Male,Clothing,Sneakers,4,69.15,0.1,248.94,Card
+T01038,06-01-2025,West,C0081,54,Male,Clothing,T-Shirt,2,19.48,0.05,37.02,UPI
+T00410,06-01-2025,South,C0310,44,Non-disclosed,Electronics,Tablet,1,304.51,0.15,258.83,UPI
+T00839,06-01-2025,West,C0013,63,Male,Beauty & Personal Care,Skincare Set,2,47.96,0.15,81.53,Cash
+T00889,06-01-2025,West,C0035,53,Female,Clothing,Men's Jeans,4,55.65,0.05,211.46,Card
+T01121,06-01-2025,North,C0348,58,Female,Sports & Outdoors,Water Bottle,4,15.81,0.2,50.6,Card
+T00478,07-01-2025,South,C0345,28,Male,Electronics,Smartphone,4,464.72,0,1858.87,Cash
+T00415,07-01-2025,South,C0031,53,Female,Sports & Outdoors,Yoga Mat,4,23.92,0.1,86.1,Cash
+T00233,08-01-2025,South,C0219,58,Male,Clothing,Men's Jeans,2,53.97,0.05,102.54,UPI
+T00540,08-01-2025,East,C0198,46,Male,Electronics,Laptop,3,742.46,0.15,1893.26,Card
+T00300,08-01-2025,South,C0243,24,Male,Electronics,Laptop,2,773,0,1546,Card
+T01167,09-01-2025,West,C0131,61,Male,Clothing,T-Shirt,2,21.81,0.1,39.25,Net Banking
+T00369,09-01-2025,East,C0203,43,Female,Clothing,Men's Jeans,2,49.57,0.05,94.19,Cash
+T00821,09-01-2025,East,C0189,38,Male,Sports & Outdoors,Backpack,2,59.98,0.05,113.96,Cash
+T00272,09-01-2025,North,C0342,61,Male,Clothing,Sneakers,5,70.65,0.15,300.24,Cash
+T00170,09-01-2025,East,C0078,62,Female,Home & Living,Desk Lamp,1,27.79,0.15,23.62,Card
+T00429,10-01-2025,East,C0255,47,Male,Electronics,Headphones,4,77.72,0.1,279.81,UPI
+T01180,10-01-2025,South,C0231,29,Male,Sports & Outdoors,Running Shoes,3,98.88,0.2,237.3,UPI
+T00454,10-01-2025,North,C0006,65,Male,Home & Living,Bedsheet,2,31.19,0,62.37,UPI
+T00830,11-01-2025,South,C0086,37,Male,Electronics,Smartphone,3,446.38,0.05,1272.19,UPI
+T00138,12-01-2025,South,C0068,61,Female,Home & Living,Bedsheet,2,30.04,0.1,54.07,UPI
+T00385,12-01-2025,North,C0027,24,Female,Home & Living,Home Decor,1,58.95,0,58.95,UPI
+T00787,12-01-2025,East,C0088,19,Female,Clothing,T-Shirt,5,23.3,0.1,104.83,Card
+T00147,13-01-2025,South,C0169,61,Male,Electronics,Headphones,1,93.74,0.2,74.99,Card
+T00663,13-01-2025,South,C0145,54,Male,Electronics,Smartphone,4,488.58,0,1954.32,Card
+T00970,14-01-2025,South,C0222,19,Female,Sports & Outdoors,Water Bottle,3,17.27,0.1,46.63,UPI
+T00117,14-01-2025,East,C0190,61,Male,Home & Living,Desk Lamp,4,32.44,0,129.75,Card
+T00844,14-01-2025,North,C0343,53,Female,Sports & Outdoors,Running Shoes,1,86.36,0.15,73.4,UPI
+T00328,14-01-2025,West,C0238,57,Male,Clothing,T-Shirt,2,23.65,0.05,44.93,Card
+T00870,15-01-2025,North,C0059,23,Male,Clothing,Men's Jeans,1,48.77,0,48.77,Net Banking
+T00817,16-01-2025,South,C0089,37,Male,Electronics,Tablet,3,264.46,0.1,714.05,Card
+T00056,16-01-2025,South,C0205,33,Male,Sports & Outdoors,Backpack,4,45.41,0.1,163.48,Net Banking
+T00562,16-01-2025,East,C0023,42,Male,Electronics,Headphones,4,86.38,0,345.52,Card
+T01099,16-01-2025,West,C0108,45,Female,Home & Living,Home Decor,1,51.51,0.05,48.94,Card
+T01019,16-01-2025,West,C0154,34,Male,Clothing,Women's Jacket,3,89.93,0.15,229.32,Card
+T00250,16-01-2025,West,C0149,53,Male,Clothing,Men's Jeans,5,41.12,0,205.6,Cash
+T00902,16-01-2025,West,C0343,57,Male,Home & Living,Bedsheet,5,33.15,0.05,157.47,Card
+T01110,17-01-2025,North,C0284,38,Female,Home & Living,Cookware Set,3,75.44,0.1,203.68,Card
+T00811,17-01-2025,West,C0263,18,Female,Sports & Outdoors,Backpack,3,48.23,0,144.69,Card
+T00397,17-01-2025,East,C0041,46,Male,Electronics,Headphones,4,84.44,0.1,303.99,UPI
+T00352,17-01-2025,North,C0135,25,Male,Electronics,Laptop,3,752.84,0.05,2145.59,UPI
+T00574,18-01-2025,East,C0149,30,Female,Clothing,T-Shirt,5,21.94,0.2,87.77,UPI
+T00584,19-01-2025,North,C0113,65,Female,Electronics,Headphones,4,88.67,0.05,336.94,Cash
+T00848,19-01-2025,South,C0169,24,Female,Beauty & Personal Care,Perfume,5,73.07,0.2,292.27,UPI
+T00699,19-01-2025,East,C0293,50,Male,Beauty & Personal Care,Perfume,5,74.31,0.1,334.42,Card
+T00546,20-01-2025,South,C0154,34,Male,Electronics,Headphones,1,73.27,0,73.27,Card
+T00898,20-01-2025,East,C0179,33,Female,Electronics,Smartphone,2,552.42,0.1,994.35,Cash
+T00887,20-01-2025,West,C0160,47,Male,Electronics,Tablet,4,288.26,0.1,1037.74,Cash
+T00542,21-01-2025,West,C0239,26,Male,Electronics,Tablet,2,240.36,0.1,432.65,Net Banking
+T00858,21-01-2025,South,C0215,20,Male,Home & Living,Desk Lamp,3,28.88,0,86.64,UPI
+T01026,21-01-2025,East,C0238,38,Male,Beauty & Personal Care,Face Cleanser,4,15.94,0,63.74,Card
+T01021,21-01-2025,North,C0327,18,Female,Clothing,T-Shirt,2,19.44,0.05,36.94,Card
+T00150,22-01-2025,West,C0240,52,Male,Sports & Outdoors,Backpack,4,58.48,0.05,222.23,Card
+T01136,22-01-2025,East,C0069,36,Male,Clothing,Women's Jacket,3,105.07,0,315.2,Card
+T00619,23-01-2025,East,C0232,19,Female,Electronics,Smartphone,4,534.76,0.1,1925.14,UPI
+T00279,24-01-2025,East,C0138,50,Non-disclosed,Clothing,Men's Jeans,4,53.92,0.15,183.34,Card
+T00036,24-01-2025,North,C0299,52,Female,Electronics,Laptop,1,634.7,0,634.7,Card
+T01035,25-01-2025,West,C0155,28,Female,Home & Living,Desk Lamp,2,30.38,0.1,54.69,Net Banking
+T00045,25-01-2025,East,C0088,25,Female,Electronics,Headphones,4,92.39,0.2,295.65,Card
+T00518,25-01-2025,West,C0076,23,Male,Beauty & Personal Care,Hair Dryer,4,39.7,0.15,134.99,Card
+T00387,25-01-2025,South,C0232,28,Female,Beauty & Personal Care,Perfume,5,66.1,0.15,280.92,Net Banking
+T00899,26-01-2025,South,C0170,64,Female,Clothing,Sneakers,1,84.24,0,84.24,UPI
+T01022,27-01-2025,South,C0336,38,Female,Home & Living,Desk Lamp,2,28.98,0.1,52.17,Card
+T00659,27-01-2025,South,C0018,61,Male,Clothing,T-Shirt,1,18.87,0.15,16.04,Net Banking
+T01055,28-01-2025,West,C0281,35,Male,Beauty & Personal Care,Face Cleanser,5,17.57,0.1,79.06,Cash
+T00069,28-01-2025,South,C0079,54,Male,Home & Living,Home Decor,3,61.14,0.1,165.09,UPI
+T01027,29-01-2025,South,C0022,30,Male,Clothing,Men's Jeans,4,42.98,0,171.92,Net Banking
+T00127,29-01-2025,North,C0289,28,Female,Clothing,Men's Jeans,2,41.73,0.05,79.29,Card
+T00217,29-01-2025,West,C0205,55,Male,Clothing,Women's Jacket,5,97.51,0.05,463.19,Net Banking
+T01096,30-01-2025,South,C0268,48,Female,Electronics,Tablet,4,271.06,0,1084.25,UPI
+T00439,30-01-2025,South,C0009,28,Male,Clothing,Men's Jeans,5,43.59,0.05,207.03,UPI
+T00280,31-01-2025,East,C0117,61,Non-disclosed,Electronics,Smartphone,3,608.48,0.05,1734.15,Net Banking
+T01122,31-01-2025,North,C0206,34,Male,Electronics,Headphones,3,90.04,0.05,256.61,Card
+T00431,31-01-2025,East,C0140,35,Female,Clothing,Sneakers,2,70.51,0.1,126.91,UPI
+T00246,31-01-2025,West,C0147,36,Female,Electronics,Smartphone,5,520.6,0,2603.01,UPI
+T00678,31-01-2025,North,C0024,24,Female,Electronics,Smartphone,3,558.76,0.05,1592.47,UPI
+T00196,01-02-2025,South,C0044,21,Female,Beauty & Personal Care,Perfume,1,64.67,0.1,58.2,Card
+T00007,01-02-2025,West,C0133,43,Male,Electronics,Smartphone,5,474.61,0.05,2254.42,Card
+T00881,01-02-2025,South,C0040,22,Female,Beauty & Personal Care,Perfume,5,58.99,0.15,250.72,Card
+T00753,01-02-2025,North,C0247,43,Male,Home & Living,Bedsheet,5,32.5,0.05,154.36,Card
+T00728,02-02-2025,East,C0139,39,Male,Sports & Outdoors,Water Bottle,2,18.18,0,36.36,Card
+T00172,02-02-2025,East,C0124,61,Female,Sports & Outdoors,Running Shoes,1,78.25,0,78.25,UPI
+T00695,02-02-2025,South,C0323,31,Male,Sports & Outdoors,Yoga Mat,4,26.96,0.2,86.27,UPI
+T00001,02-02-2025,South,C0193,22,Female,Home & Living,Bedsheet,4,32.12,0.1,115.63,Cash
+T00359,03-02-2025,South,C0176,37,Female,Clothing,Men's Jeans,1,41.19,0,41.19,UPI
+T00133,03-02-2025,North,C0277,64,Female,Beauty & Personal Care,Face Cleanser,2,13.96,0.1,25.12,UPI
+T00910,03-02-2025,East,C0044,28,Female,Home & Living,Desk Lamp,5,31.53,0.1,141.89,Cash
+T00826,03-02-2025,South,C0002,50,Female,Clothing,T-Shirt,5,23.12,0,115.61,Card
+T00033,03-02-2025,North,C0106,61,Female,Clothing,Sneakers,3,81.87,0.1,221.06,UPI
+T00700,04-02-2025,South,C0312,18,Female,Home & Living,Cookware Set,2,88.92,0,177.84,Card
+T00791,04-02-2025,West,C0054,63,Male,Beauty & Personal Care,Face Cleanser,2,13.64,0.15,23.18,Card
+T00376,04-02-2025,East,C0252,24,Male,Home & Living,Desk Lamp,1,25.56,0,25.56,Card
+T00977,04-02-2025,West,C0041,49,Female,Home & Living,Desk Lamp,1,25.58,0.05,24.3,UPI
+T00010,04-02-2025,South,C0257,47,Female,Electronics,Laptop,5,641.77,0.15,2727.54,Card
+T00581,04-02-2025,East,C0098,26,Male,Beauty & Personal Care,Perfume,3,61.87,0.1,167.05,UPI
+T00243,04-02-2025,South,C0008,52,Male,Home & Living,Desk Lamp,3,31.91,0.15,81.38,Card
+T00674,04-02-2025,East,C0317,42,Female,Home & Living,Bedsheet,2,36.5,0,73,UPI
+T00951,04-02-2025,North,C0139,20,Male,Electronics,Headphones,5,90.72,0.15,385.56,Card
+T00218,05-02-2025,South,C0213,24,Male,Electronics,Laptop,3,598.23,0.15,1525.48,Net Banking
+T00087,05-02-2025,South,C0263,50,Female,Electronics,Smartphone,4,598.12,0.15,2033.61,Card
+T00588,06-02-2025,West,C0074,23,Male,Electronics,Smartphone,3,570.63,0.05,1626.3,UPI
+T00891,06-02-2025,North,C0344,22,Male,Sports & Outdoors,Yoga Mat,3,24.65,0.1,66.56,UPI
+T00258,07-02-2025,West,C0264,31,Female,Clothing,T-Shirt,4,22.94,0.15,78,Net Banking
+T00580,07-02-2025,North,C0220,19,Female,Beauty & Personal Care,Perfume,2,69.31,0.1,124.76,Card
+T00583,08-02-2025,North,C0167,39,Female,Electronics,Headphones,5,97.95,0.15,416.3,Card
+T00460,08-02-2025,East,C0261,62,Male,Clothing,Women's Jacket,4,85.63,0,342.52,Net Banking
+T01166,08-02-2025,North,C0242,42,Female,Home & Living,Cookware Set,4,93.13,0.1,335.26,Net Banking
+T00818,08-02-2025,South,C0001,33,Male,Sports & Outdoors,Water Bottle,1,18.19,0.1,16.37,Card
+T00171,08-02-2025,North,C0112,26,Male,Clothing,T-Shirt,4,20.76,0,83.05,Card
+T00516,08-02-2025,North,C0115,56,Male,Clothing,Women's Jacket,3,86.83,0.1,234.43,Net Banking
+T00322,09-02-2025,West,C0016,40,Male,Electronics,Tablet,5,256.5,0,1282.52,Card
+T00480,09-02-2025,South,C0314,61,Female,Home & Living,Cookware Set,2,91.09,0.05,173.07,UPI
+T00310,09-02-2025,South,C0154,41,Male,Electronics,Laptop,3,669.24,0.1,1806.96,UPI
+T00808,10-02-2025,North,C0186,45,Male,Electronics,Tablet,2,276.84,0.05,525.99,Card
+T00873,11-02-2025,North,C0063,51,Non-disclosed,Clothing,Sneakers,4,74.96,0.1,269.84,UPI
+T00501,11-02-2025,North,C0122,43,Male,Sports & Outdoors,Yoga Mat,3,29.31,0.15,74.75,UPI
+T00120,11-02-2025,West,C0149,20,Female,Sports & Outdoors,Running Shoes,1,86.33,0.1,77.69,Cash
+T01020,12-02-2025,North,C0052,49,Male,Sports & Outdoors,Running Shoes,3,78.36,0.1,211.58,Cash
+T00538,12-02-2025,South,C0227,55,Female,Clothing,Sneakers,4,64.98,0.05,246.91,Card
+T00726,12-02-2025,West,C0202,23,Male,Electronics,Headphones,4,81.82,0.05,310.93,Cash
+T00365,12-02-2025,West,C0204,48,Female,Sports & Outdoors,Backpack,2,46.95,0.05,89.21,Cash
+T01157,13-02-2025,North,C0344,49,Male,Electronics,Headphones,5,88.96,0.15,378.07,UPI
+T00778,13-02-2025,West,C0002,47,Female,Beauty & Personal Care,Perfume,5,59.72,0.05,283.66,UPI
+T00313,13-02-2025,West,C0127,57,Male,Electronics,Laptop,3,797.69,0.2,1914.45,Card
+T00497,13-02-2025,North,C0204,46,Male,Beauty & Personal Care,Hair Dryer,3,37.32,0,111.96,Card
+T01050,13-02-2025,West,C0102,59,Non-disclosed,Clothing,T-Shirt,5,24.67,0.15,104.83,UPI
+T00863,13-02-2025,North,C0211,45,Non-disclosed,Clothing,Men's Jeans,1,45.58,0,45.58,Card
+T00946,13-02-2025,South,C0107,62,Female,Beauty & Personal Care,Hair Dryer,3,42.77,0.1,115.48,Card
+T00724,13-02-2025,West,C0062,32,Female,Home & Living,Cookware Set,1,91.23,0.05,86.66,Card
+T00198,13-02-2025,North,C0253,61,Female,Clothing,Women's Jacket,1,104.47,0.05,99.24,Card
+T00418,14-02-2025,West,C0149,46,Male,Sports & Outdoors,Yoga Mat,5,25.78,0,128.91,Cash
+T00784,14-02-2025,West,C0091,61,Female,Electronics,Headphones,3,76.76,0.1,207.24,Card
+T00783,14-02-2025,South,C0026,47,Male,Electronics,Smartphone,3,495.32,0.15,1263.07,UPI
+T00386,14-02-2025,West,C0251,28,Male,Electronics,Headphones,1,93.82,0.1,84.44,UPI
+T00436,15-02-2025,East,C0067,60,Female,Sports & Outdoors,Yoga Mat,2,21.69,0,43.38,UPI
+T00874,15-02-2025,South,C0036,41,Female,Clothing,Women's Jacket,2,96.6,0,193.21,Card
+T00221,16-02-2025,North,C0054,29,Female,Home & Living,Cookware Set,4,76.05,0.05,288.99,Net Banking
+T00018,16-02-2025,South,C0039,26,Male,Clothing,Men's Jeans,1,41.93,0.2,33.54,UPI
+T00759,16-02-2025,East,C0001,57,Female,Clothing,Women's Jacket,5,92.06,0,460.32,Card
+T01005,16-02-2025,North,C0291,65,Male,Electronics,Smartphone,3,471.19,0,1413.58,Card
+T00157,16-02-2025,South,C0228,43,Female,Home & Living,Home Decor,2,64.03,0.05,121.66,UPI
+T00945,17-02-2025,South,C0215,56,Male,Clothing,Sneakers,4,71.95,0.05,273.4,Card
+T00434,17-02-2025,West,C0222,27,Male,Sports & Outdoors,Running Shoes,3,82.68,0.1,223.23,UPI
+T00705,17-02-2025,West,C0134,50,Male,Clothing,Sneakers,4,81.33,0.05,309.04,Card
+T00074,17-02-2025,East,C0043,35,Female,Sports & Outdoors,Water Bottle,5,20.42,0,102.12,UPI
+T00670,18-02-2025,South,C0226,34,Female,Clothing,Women's Jacket,3,100.67,0,302,Cash
+T00948,18-02-2025,East,C0186,37,Male,Electronics,Smartphone,1,524.94,0.1,472.45,Card
+T00443,18-02-2025,East,C0344,43,Non-disclosed,Clothing,T-Shirt,3,22.14,0,66.42,UPI
+T00414,18-02-2025,West,C0185,64,Male,Clothing,Men's Jeans,4,48.2,0.1,173.51,Net Banking
+T00604,19-02-2025,East,C0185,53,Male,Sports & Outdoors,Running Shoes,5,88.23,0,441.17,UPI
+T00823,19-02-2025,South,C0322,20,Female,Electronics,Tablet,5,296.43,0.1,1333.93,UPI
+T00721,20-02-2025,South,C0102,60,Male,Electronics,Tablet,2,254.43,0,508.87,Cash
+T00682,20-02-2025,South,C0248,63,Female,Electronics,Smartphone,1,544.42,0,544.42,Card
+T01090,21-02-2025,South,C0299,55,Female,Electronics,Smartphone,3,546.41,0.2,1311.38,UPI
+T00118,21-02-2025,North,C0276,52,Female,Beauty & Personal Care,Skincare Set,5,46.62,0,233.1,UPI
+T00462,21-02-2025,East,C0173,57,Female,Sports & Outdoors,Running Shoes,3,101.41,0,304.24,Card
+T00620,21-02-2025,North,C0130,46,Female,Sports & Outdoors,Yoga Mat,5,25.81,0.2,103.23,Cash
+T00306,21-02-2025,East,C0273,63,Female,Beauty & Personal Care,Perfume,3,63.78,0.05,181.76,UPI
+T00100,21-02-2025,South,C0109,46,Female,Electronics,Laptop,5,753.94,0,3769.71,Net Banking
+T00769,21-02-2025,North,C0349,37,Male,Home & Living,Bedsheet,1,30.11,0.05,28.6,UPI
+T00241,21-02-2025,North,C0295,27,Female,Clothing,T-Shirt,1,19,0.05,18.05,Card
+T01187,21-02-2025,South,C0024,56,Female,Electronics,Smartphone,4,456.76,0,1827.03,UPI
+T00329,21-02-2025,East,C0231,38,Male,Electronics,Laptop,5,649.14,0.15,2758.84,Card
+T00834,22-02-2025,North,C0134,32,Male,Home & Living,Bedsheet,2,35.81,0,71.62,UPI
+T00924,22-02-2025,East,C0005,65,Male,Clothing,Sneakers,4,77.47,0,309.88,Card
+T01063,22-02-2025,West,C0152,58,Male,Clothing,Sneakers,4,67.58,0.1,243.3,Cash
+T00528,22-02-2025,East,C0114,61,Male,Electronics,Smartphone,2,486.49,0.15,827.04,Card
+T00408,22-02-2025,South,C0133,42,Female,Clothing,T-Shirt,1,20.28,0.15,17.24,Card
+T00256,22-02-2025,South,C0097,38,Male,Clothing,Men's Jeans,2,46.09,0,92.19,Card
+T00752,23-02-2025,West,C0010,65,Male,Home & Living,Cookware Set,2,87.58,0.1,157.65,Net Banking
+T00975,23-02-2025,North,C0075,34,Male,Beauty & Personal Care,Perfume,1,58.99,0.05,56.04,UPI
+T00522,23-02-2025,North,C0077,41,Male,Electronics,Laptop,3,720.45,0,2161.35,UPI
+T00457,24-02-2025,West,C0255,32,Male,Sports & Outdoors,Running Shoes,5,100.42,0.1,451.87,Card
+T01104,24-02-2025,East,C0258,30,Female,Sports & Outdoors,Water Bottle,3,17.29,0.15,44.1,Cash
+T00938,24-02-2025,East,C0150,48,Female,Home & Living,Cookware Set,5,69.05,0.05,328,Card
+T00390,25-02-2025,West,C0222,59,Male,Sports & Outdoors,Water Bottle,3,20.55,0.05,58.56,Card
+T00182,25-02-2025,West,C0158,35,Male,Clothing,Sneakers,1,71.67,0.05,68.09,Card
+T00273,25-02-2025,West,C0050,27,Female,Clothing,T-Shirt,2,23.4,0.05,44.47,Net Banking
+T00357,25-02-2025,East,C0071,38,Male,Electronics,Headphones,5,93.84,0,469.21,Net Banking
+T00533,26-02-2025,North,C0100,50,Female,Beauty & Personal Care,Perfume,2,62.61,0.05,118.96,Net Banking
+T00536,26-02-2025,South,C0016,26,Male,Home & Living,Desk Lamp,2,30.69,0.1,55.25,Card
+T00058,26-02-2025,South,C0071,27,Female,Clothing,T-Shirt,4,22.08,0.1,79.48,Net Banking
+T00961,26-02-2025,West,C0266,36,Male,Home & Living,Cookware Set,1,94.17,0.05,89.46,UPI
+T01046,26-02-2025,South,C0335,20,Male,Home & Living,Home Decor,5,58.6,0,293.02,UPI
+T00884,26-02-2025,North,C0070,61,Male,Home & Living,Home Decor,4,47.69,0,190.74,Card
+T00937,27-02-2025,West,C0123,38,Male,Electronics,Smartphone,5,451.51,0.05,2144.65,Card
+T00847,27-02-2025,West,C0325,50,Male,Beauty & Personal Care,Skincare Set,3,38.88,0.2,93.32,Cash
+T00750,27-02-2025,North,C0197,18,Male,Clothing,T-Shirt,1,23.72,0.1,21.35,Card
+T00287,28-02-2025,South,C0268,29,Male,Clothing,Men's Jeans,5,53.09,0,265.45,Cash
+T00178,28-02-2025,North,C0196,45,Male,Sports & Outdoors,Water Bottle,4,16.46,0.1,59.26,UPI
+T00083,28-02-2025,North,C0249,22,Female,Clothing,Men's Jeans,4,50.55,0.05,192.09,Card
+T01076,01-03-2025,West,C0082,39,Female,Electronics,Headphones,5,93.47,0,467.34,Cash
+T00467,02-03-2025,South,C0278,48,Male,Beauty & Personal Care,Perfume,3,72.64,0.15,185.24,Card
+T00187,02-03-2025,West,C0309,56,Male,Clothing,Women's Jacket,4,90.26,0.1,324.92,Cash
+T00041,02-03-2025,East,C0204,30,Male,Electronics,Smartphone,3,576.37,0,1729.1,Card
+T00623,02-03-2025,West,C0083,51,Male,Beauty & Personal Care,Face Cleanser,1,17.11,0,17.11,Net Banking
+T00350,02-03-2025,South,C0181,44,Female,Electronics,Headphones,4,80.21,0.2,256.67,Card
+T01078,02-03-2025,South,C0249,22,Male,Clothing,Men's Jeans,4,52.2,0.05,198.36,Card
+T00532,02-03-2025,South,C0125,18,Male,Clothing,Men's Jeans,2,55.31,0,110.62,UPI
+T00168,02-03-2025,North,C0289,24,Male,Beauty & Personal Care,Face Cleanser,3,16.71,0,50.13,Card
+T00703,03-03-2025,East,C0249,45,Female,Sports & Outdoors,Water Bottle,2,16.37,0.15,27.83,Net Banking
+T00685,03-03-2025,West,C0178,28,Male,Beauty & Personal Care,Perfume,5,73.69,0,368.47,Card
+T00704,04-03-2025,North,C0339,50,Male,Beauty & Personal Care,Skincare Set,5,47.87,0.15,203.47,Card
+T00262,04-03-2025,East,C0283,28,Female,Clothing,Women's Jacket,5,93.75,0,468.76,Card
+T01193,04-03-2025,North,C0216,20,Female,Clothing,T-Shirt,5,25.8,0.05,122.56,Card
+T00411,05-03-2025,East,C0097,56,Female,Sports & Outdoors,Backpack,1,59.03,0.1,53.13,Card
+T00259,05-03-2025,South,C0026,48,Male,Electronics,Headphones,1,73.51,0,73.51,UPI
+T00544,05-03-2025,West,C0199,57,Female,Clothing,T-Shirt,2,20.78,0.15,35.32,UPI
+T01032,05-03-2025,West,C0314,20,Male,Clothing,Sneakers,2,86.41,0.05,164.17,Cash
+T00908,05-03-2025,South,C0151,19,Female,Electronics,Laptop,3,661.55,0.15,1686.94,Cash
+T01174,06-03-2025,West,C0092,51,Female,Sports & Outdoors,Running Shoes,1,92.15,0.1,82.93,Card
+T00661,06-03-2025,North,C0246,51,Male,Sports & Outdoors,Yoga Mat,4,25.42,0.1,91.51,Card
+T00761,06-03-2025,East,C0220,24,Female,Home & Living,Home Decor,2,49.63,0.1,89.34,Net Banking
+T00230,06-03-2025,North,C0220,32,Male,Home & Living,Cookware Set,5,68.79,0.05,326.74,UPI
+T00251,07-03-2025,North,C0011,44,Female,Sports & Outdoors,Water Bottle,4,20.3,0.15,69.03,Card
+T00392,07-03-2025,East,C0195,61,Male,Home & Living,Cookware Set,4,81.11,0.1,292.01,Cash
+T00349,07-03-2025,West,C0019,32,Male,Beauty & Personal Care,Perfume,3,70.82,0.2,169.96,UPI
+T01106,08-03-2025,West,C0350,61,Female,Home & Living,Cookware Set,3,84.69,0,254.07,Card
+T00912,08-03-2025,North,C0134,54,Female,Electronics,Tablet,5,273.52,0.15,1162.47,UPI
+T00635,08-03-2025,North,C0017,40,Male,Beauty & Personal Care,Face Cleanser,5,15.35,0.2,61.42,UPI
+T00023,08-03-2025,West,C0145,65,Female,Home & Living,Cookware Set,2,76.83,0.15,130.61,Net Banking
+T00469,08-03-2025,North,C0095,60,Male,Beauty & Personal Care,Hair Dryer,2,43.27,0,86.54,UPI
+T00564,08-03-2025,North,C0229,61,Female,Sports & Outdoors,Yoga Mat,5,25.44,0.05,120.82,UPI
+T00253,10-03-2025,West,C0113,25,Male,Clothing,Women's Jacket,5,101.23,0.1,455.55,UPI
+T00072,11-03-2025,East,C0093,55,Female,Clothing,T-Shirt,1,22.17,0,22.17,Card
+T01178,11-03-2025,South,C0058,43,Male,Beauty & Personal Care,Face Cleanser,1,17.41,0.15,14.8,Cash
+T01115,12-03-2025,South,C0303,43,Female,Clothing,T-Shirt,1,21.2,0,21.2,Card
+T00523,12-03-2025,West,C0291,26,Female,Clothing,Men's Jeans,5,45.03,0.1,202.66,Card
+T00888,12-03-2025,South,C0082,51,Female,Home & Living,Cookware Set,5,78.99,0.2,315.96,Cash
+T01113,12-03-2025,West,C0133,46,Male,Home & Living,Desk Lamp,3,27.01,0,81.02,Card
+T00543,13-03-2025,West,C0133,65,Male,Beauty & Personal Care,Perfume,5,71.96,0,359.81,UPI
+T00398,13-03-2025,North,C0195,65,Female,Home & Living,Home Decor,3,50.05,0.15,127.63,Cash
+T00052,13-03-2025,West,C0319,23,Male,Sports & Outdoors,Yoga Mat,3,22.49,0.1,60.71,UPI
+T00993,13-03-2025,West,C0217,32,Female,Beauty & Personal Care,Skincare Set,2,37.4,0.05,71.05,Card
+T00838,14-03-2025,South,C0010,52,Female,Electronics,Laptop,1,638.91,0.1,575.02,UPI
+T00426,14-03-2025,South,C0119,22,Female,Clothing,Sneakers,3,79.17,0,237.5,Cash
+T00102,14-03-2025,South,C0232,43,Male,Electronics,Tablet,2,282.25,0.1,508.05,UPI
+T00009,15-03-2025,East,C0289,60,Male,Clothing,Men's Jeans,3,47.91,0,143.73,UPI
+T00339,15-03-2025,West,C0094,61,Male,Beauty & Personal Care,Face Cleanser,2,14.35,0.15,24.39,UPI
+T00664,15-03-2025,West,C0254,22,Male,Home & Living,Cookware Set,3,88.47,0.05,252.13,Cash
+T00872,15-03-2025,North,C0220,18,Female,Clothing,T-Shirt,2,21.19,0,42.39,Cash
+T01085,15-03-2025,North,C0088,46,Male,Home & Living,Bedsheet,4,32.06,0.2,102.58,UPI
+T00224,15-03-2025,East,C0300,31,Female,Electronics,Smartphone,4,481.2,0.1,1732.32,UPI
+T00653,15-03-2025,North,C0120,45,Female,Home & Living,Desk Lamp,2,31.24,0.15,53.11,Card
+T00735,18-03-2025,West,C0299,49,Male,Sports & Outdoors,Running Shoes,4,93.13,0.05,353.88,Card
+T01072,18-03-2025,East,C0237,37,Male,Clothing,Sneakers,1,85.41,0.1,76.87,Net Banking
+T00142,20-03-2025,North,C0129,59,Female,Clothing,Men's Jeans,2,42.77,0.1,76.99,Net Banking
+T00903,21-03-2025,South,C0116,58,Female,Clothing,Sneakers,1,64.31,0.1,57.88,UPI
+T00964,21-03-2025,West,C0294,50,Male,Clothing,T-Shirt,2,21.71,0,43.43,Net Banking
+T00363,23-03-2025,North,C0024,47,Female,Clothing,Sneakers,3,70.54,0.1,190.45,UPI
+T00078,24-03-2025,South,C0278,41,Male,Clothing,Men's Jeans,5,54.37,0.05,258.26,UPI
+T00976,24-03-2025,North,C0096,50,Female,Clothing,T-Shirt,4,19.05,0,76.21,Card
+T00032,24-03-2025,West,C0044,21,Male,Sports & Outdoors,Water Bottle,4,15.49,0.05,58.88,Net Banking
+T00412,25-03-2025,East,C0271,18,Non-disclosed,Clothing,Women's Jacket,1,90.27,0,90.27,Card
+T00567,25-03-2025,West,C0033,26,Female,Clothing,Men's Jeans,5,51.24,0.15,217.75,Card
+T00626,26-03-2025,West,C0234,20,Male,Beauty & Personal Care,Hair Dryer,5,37.34,0.15,158.71,UPI
+T00326,26-03-2025,North,C0319,61,Female,Clothing,Men's Jeans,1,49.64,0.15,42.19,UPI
+T00486,26-03-2025,East,C0253,52,Female,Electronics,Tablet,4,250.85,0,1003.39,Card
+T01112,26-03-2025,South,C0261,61,Male,Electronics,Tablet,1,242.53,0,242.53,Card
+T00637,27-03-2025,North,C0032,61,Female,Home & Living,Home Decor,2,48.09,0.15,81.75,UPI
+T00148,27-03-2025,South,C0153,29,Female,Sports & Outdoors,Water Bottle,2,20.51,0.1,36.92,UPI
+T00566,28-03-2025,West,C0140,44,Non-disclosed,Home & Living,Cookware Set,4,75.19,0,300.77,UPI
+T00510,28-03-2025,North,C0049,63,Non-disclosed,Sports & Outdoors,Yoga Mat,4,24.11,0,96.43,Card
+T00327,28-03-2025,North,C0336,35,Female,Clothing,Men's Jeans,2,52.27,0.1,94.09,UPI
+T00719,28-03-2025,East,C0085,30,Male,Home & Living,Home Decor,1,63.46,0.15,53.94,Cash
+T00832,29-03-2025,East,C0339,56,Male,Home & Living,Home Decor,3,62.21,0.05,177.29,Card
+T00097,29-03-2025,East,C0329,58,Male,Home & Living,Bedsheet,2,34.89,0.2,55.82,UPI
+T00189,29-03-2025,West,C0130,43,Male,Sports & Outdoors,Yoga Mat,2,27.19,0.05,51.66,Cash
+T00593,29-03-2025,West,C0292,62,Female,Clothing,Women's Jacket,4,89.35,0.2,285.91,Net Banking
+T00854,29-03-2025,West,C0210,63,Female,Beauty & Personal Care,Skincare Set,4,37.37,0.05,142,Card
+T01047,29-03-2025,North,C0202,45,Male,Electronics,Headphones,3,86.54,0.1,233.65,UPI
+T00384,29-03-2025,South,C0115,18,Female,Electronics,Laptop,2,821.67,0.15,1396.84,Net Banking
+T01124,30-03-2025,East,C0158,63,Female,Home & Living,Bedsheet,2,30.23,0,60.45,Card
+T00857,31-03-2025,North,C0233,63,Female,Clothing,T-Shirt,4,22.69,0.1,81.68,UPI
+T01013,31-03-2025,East,C0334,27,Male,Beauty & Personal Care,Hair Dryer,5,44.37,0.05,210.77,Card
+T00315,31-03-2025,West,C0103,30,Female,Electronics,Tablet,2,230.8,0,461.61,Card
+T00119,31-03-2025,East,C0088,34,Male,Home & Living,Bedsheet,3,39.61,0,118.83,UPI
+T01107,31-03-2025,North,C0294,46,Female,Sports & Outdoors,Yoga Mat,3,29.49,0.2,70.77,Card
+T00989,31-03-2025,South,C0319,36,Female,Sports & Outdoors,Running Shoes,1,100.79,0.2,80.63,Card
+T00831,31-03-2025,West,C0288,59,Male,Electronics,Headphones,2,72.46,0.15,123.18,Cash
+T00508,01-04-2025,South,C0143,46,Male,Clothing,Women's Jacket,2,94.16,0.1,169.5,Card
+T00925,01-04-2025,East,C0025,61,Male,Electronics,Smartphone,4,536.82,0.1,1932.54,Card
+T00617,02-04-2025,South,C0283,53,Male,Electronics,Smartphone,3,482.56,0,1447.69,Card
+T00483,02-04-2025,West,C0179,53,Female,Clothing,Sneakers,5,82.56,0.15,350.89,Net Banking
+T00568,02-04-2025,South,C0281,54,Male,Clothing,Men's Jeans,3,49.82,0.05,142,Cash
+T00696,03-04-2025,South,C0251,20,Male,Home & Living,Bedsheet,1,35.3,0.05,33.54,UPI
+T00919,03-04-2025,North,C0108,38,Male,Electronics,Laptop,3,607.42,0.05,1731.15,Card
+T00933,04-04-2025,East,C0309,56,Female,Home & Living,Home Decor,4,50.73,0.1,182.64,UPI
+T00346,04-04-2025,North,C0163,43,Male,Sports & Outdoors,Water Bottle,4,16.93,0,67.73,UPI
+T01179,05-04-2025,South,C0198,65,Male,Beauty & Personal Care,Perfume,5,59.89,0.2,239.57,Card
+T00380,06-04-2025,North,C0297,28,Female,Sports & Outdoors,Running Shoes,4,76.99,0,307.95,Card
+T00211,06-04-2025,North,C0312,56,Non-disclosed,Electronics,Laptop,1,680.77,0,680.77,Net Banking
+T00209,07-04-2025,South,C0120,34,Male,Electronics,Smartphone,3,592.15,0.05,1687.64,Card
+T00292,08-04-2025,West,C0035,43,Female,Beauty & Personal Care,Hair Dryer,4,42.96,0,171.86,Cash
+T00206,08-04-2025,North,C0343,60,Male,Sports & Outdoors,Backpack,3,54.42,0.1,146.93,Cash
+T00618,08-04-2025,East,C0346,47,Male,Home & Living,Bedsheet,3,35.53,0.15,90.61,Card
+T00744,09-04-2025,East,C0127,63,Non-disclosed,Electronics,Laptop,1,822.26,0.1,740.04,UPI
+T01011,09-04-2025,North,C0126,54,Male,Electronics,Laptop,4,699.22,0,2796.9,Cash
+T01123,09-04-2025,East,C0124,53,Female,Electronics,Headphones,4,96.48,0,385.92,Card
+T00890,09-04-2025,South,C0337,51,Male,Home & Living,Desk Lamp,3,26.48,0.15,67.53,Net Banking
+T00509,09-04-2025,West,C0116,53,Female,Home & Living,Bedsheet,3,31.68,0.05,90.3,Cash
+T00779,09-04-2025,East,C0200,33,Male,Electronics,Laptop,3,782.54,0.05,2230.25,UPI
+T00216,10-04-2025,West,C0187,55,Female,Home & Living,Bedsheet,4,38.7,0,154.82,Cash
+T00143,11-04-2025,West,C0086,46,Male,Clothing,T-Shirt,5,22.83,0.1,102.72,Card
+T00281,11-04-2025,South,C0102,24,Female,Clothing,Men's Jeans,4,48.07,0.15,163.45,Net Banking
+T00505,11-04-2025,North,C0202,30,Male,Clothing,Women's Jacket,5,84.95,0.05,403.5,UPI
+T00950,12-04-2025,North,C0279,40,Male,Electronics,Headphones,1,80.01,0.1,72.01,UPI
+T00111,12-04-2025,West,C0322,47,Non-disclosed,Electronics,Tablet,5,265.65,0,1328.23,Net Banking
+T00039,12-04-2025,East,C0006,27,Male,Beauty & Personal Care,Perfume,2,66.77,0.2,106.83,Card
+T00413,12-04-2025,South,C0267,18,Male,Sports & Outdoors,Yoga Mat,3,26.82,0.1,72.41,Card
+T01192,12-04-2025,South,C0335,53,Female,Beauty & Personal Care,Face Cleanser,3,15.65,0.1,42.25,Card
+T01028,13-04-2025,North,C0186,29,Male,Electronics,Tablet,3,221.38,0.05,630.94,Card
+T00152,13-04-2025,South,C0049,54,Male,Electronics,Tablet,5,226.86,0,1134.32,Card
+T00314,13-04-2025,West,C0280,52,Male,Home & Living,Home Decor,2,48.96,0.1,88.14,UPI
+T00399,13-04-2025,West,C0334,27,Female,Clothing,T-Shirt,1,21.11,0.1,19,Cash
+T00299,14-04-2025,North,C0040,33,Female,Electronics,Smartphone,3,588.92,0.15,1501.75,UPI
+T00573,14-04-2025,North,C0311,37,Female,Clothing,Men's Jeans,3,40.87,0.1,110.35,UPI
+T00534,14-04-2025,East,C0182,28,Male,Electronics,Laptop,3,649.67,0,1949.02,UPI
+T00814,14-04-2025,West,C0285,55,Female,Beauty & Personal Care,Hair Dryer,3,41.41,0.1,111.8,Card
+T00450,15-04-2025,North,C0202,53,Female,Clothing,Men's Jeans,4,48.15,0.15,163.69,Card
+T00481,16-04-2025,North,C0255,36,Female,Clothing,T-Shirt,2,25.55,0.05,48.55,Net Banking
+T00096,16-04-2025,South,C0009,27,Male,Electronics,Headphones,2,83.55,0,167.11,UPI
+T00855,16-04-2025,South,C0028,43,Female,Clothing,Sneakers,4,83.97,0.15,285.49,Card
+T00841,16-04-2025,North,C0179,44,Female,Beauty & Personal Care,Perfume,5,60.41,0.1,271.86,UPI
+T00495,16-04-2025,East,C0027,35,Male,Clothing,Women's Jacket,4,93.29,0,373.15,Card
+T00660,16-04-2025,West,C0342,26,Male,Home & Living,Home Decor,5,51.81,0.15,220.19,UPI
+T01114,17-04-2025,West,C0300,23,Female,Home & Living,Cookware Set,5,84.85,0.15,360.61,Cash
+T00342,17-04-2025,West,C0122,32,Female,Clothing,Sneakers,5,64.48,0.1,290.18,Card
+T00154,18-04-2025,South,C0153,36,Female,Sports & Outdoors,Running Shoes,2,76.31,0,152.62,Net Banking
+T00796,18-04-2025,North,C0137,51,Male,Sports & Outdoors,Yoga Mat,3,23.09,0.05,65.82,UPI
+T00271,18-04-2025,East,C0215,62,Female,Beauty & Personal Care,Hair Dryer,4,43.66,0.1,157.16,Card
+T00419,19-04-2025,North,C0299,42,Female,Sports & Outdoors,Backpack,2,51.86,0.05,98.54,UPI
+T00638,19-04-2025,South,C0099,35,Male,Home & Living,Home Decor,4,46.95,0.05,178.39,Cash
+T00263,20-04-2025,West,C0191,21,Male,Home & Living,Home Decor,2,52.69,0.1,94.84,UPI
+T00442,20-04-2025,East,C0231,23,Male,Electronics,Smartphone,4,442.16,0.05,1680.2,Net Banking
+T00353,20-04-2025,North,C0291,21,Male,Beauty & Personal Care,Skincare Set,3,35.72,0.15,91.09,Card
+T00971,20-04-2025,South,C0256,51,Female,Electronics,Laptop,5,760.5,0.15,3232.11,Cash
+T00928,20-04-2025,South,C0022,62,Female,Electronics,Smartphone,3,478.69,0.1,1292.47,Card
+T00190,21-04-2025,East,C0160,49,Male,Electronics,Smartphone,4,541.87,0.1,1950.74,UPI
+T00802,21-04-2025,North,C0261,65,Female,Home & Living,Home Decor,4,58.78,0.05,223.37,UPI
+T00307,21-04-2025,South,C0210,51,Female,Beauty & Personal Care,Face Cleanser,1,15.77,0.15,13.41,Cash
+T00136,21-04-2025,East,C0167,48,Female,Electronics,Laptop,1,611.24,0.15,519.56,UPI
+T00952,22-04-2025,South,C0162,43,Female,Beauty & Personal Care,Perfume,3,57.14,0.15,145.7,Net Banking
+T01105,22-04-2025,South,C0011,27,Male,Clothing,Women's Jacket,2,81.13,0.15,137.93,UPI
+T00226,22-04-2025,North,C0109,37,Male,Clothing,T-Shirt,5,21.45,0.1,96.54,Cash
+T01155,22-04-2025,South,C0309,38,Female,Home & Living,Cookware Set,3,91.88,0,275.63,Card
+T01186,23-04-2025,West,C0194,26,Male,Electronics,Tablet,3,287.85,0,863.54,Card
+T00239,23-04-2025,South,C0127,50,Female,Home & Living,Desk Lamp,3,26.54,0,79.62,Cash
+T01060,24-04-2025,North,C0107,25,Female,Clothing,Women's Jacket,5,86.83,0.1,390.74,Net Banking
+T00333,24-04-2025,South,C0009,63,Male,Sports & Outdoors,Yoga Mat,5,26.65,0.1,119.9,Card
+T00526,24-04-2025,East,C0030,19,Female,Sports & Outdoors,Yoga Mat,4,24.03,0,96.11,UPI
+T00400,24-04-2025,North,C0056,54,Female,Home & Living,Desk Lamp,2,27.47,0.05,52.2,UPI
+T00088,25-04-2025,West,C0119,57,Female,Electronics,Smartphone,1,479.13,0,479.13,Cash
+T01014,25-04-2025,South,C0225,26,Non-disclosed,Electronics,Smartphone,4,598.33,0.2,1914.64,Card
+T00447,25-04-2025,North,C0163,51,Female,Clothing,Women's Jacket,3,109.54,0.2,262.9,UPI
+T01034,25-04-2025,East,C0134,43,Male,Beauty & Personal Care,Hair Dryer,3,37.38,0.15,95.32,Card
+T00749,25-04-2025,South,C0103,18,Male,Clothing,Women's Jacket,3,101.3,0.15,258.32,Cash
+T00748,25-04-2025,South,C0333,35,Male,Electronics,Laptop,1,775.89,0.05,737.1,Net Banking
+T01177,26-04-2025,East,C0106,50,Female,Home & Living,Bedsheet,1,32.7,0.05,31.07,Card
+T00968,26-04-2025,North,C0073,58,Non-disclosed,Home & Living,Bedsheet,2,38.37,0,76.74,UPI
+T00799,26-04-2025,East,C0182,37,Female,Sports & Outdoors,Running Shoes,1,85.06,0.05,80.8,Card
+T00368,26-04-2025,North,C0022,21,Non-disclosed,Clothing,Men's Jeans,2,41.39,0.1,74.5,Cash
+T00988,26-04-2025,East,C0270,28,Male,Home & Living,Bedsheet,1,35.88,0,35.88,Cash
+T00309,26-04-2025,North,C0169,23,Male,Clothing,Women's Jacket,4,104.46,0,417.84,Card
+T00338,26-04-2025,North,C0287,61,Female,Beauty & Personal Care,Skincare Set,4,47.7,0.1,171.71,UPI
+T00525,27-04-2025,South,C0130,53,Male,Clothing,Women's Jacket,5,82.95,0.1,373.27,Card
+T00554,27-04-2025,North,C0010,41,Female,Home & Living,Cookware Set,1,80.74,0,80.74,Card
+T00403,27-04-2025,North,C0112,35,Female,Sports & Outdoors,Running Shoes,2,103.45,0.15,175.87,UPI
+T00321,28-04-2025,North,C0339,45,Female,Clothing,Sneakers,1,65.85,0.15,55.97,Cash
+T00167,28-04-2025,North,C0014,54,Male,Beauty & Personal Care,Perfume,4,65.45,0.1,235.61,UPI
+T00607,28-04-2025,East,C0294,35,Female,Home & Living,Desk Lamp,2,27.58,0.1,49.64,UPI
+T00595,28-04-2025,West,C0205,52,Female,Home & Living,Desk Lamp,1,26.72,0.1,24.05,UPI
+T00066,29-04-2025,East,C0309,27,Female,Beauty & Personal Care,Perfume,3,66.23,0.15,168.88,UPI
+T01095,30-04-2025,East,C0123,59,Female,Sports & Outdoors,Backpack,1,57.28,0.15,48.69,Cash
+T00632,30-04-2025,East,C0311,42,Female,Beauty & Personal Care,Skincare Set,2,39.85,0.05,75.71,Net Banking
+T00646,30-04-2025,North,C0148,40,Female,Home & Living,Bedsheet,2,33.23,0.05,63.14,UPI
+T00077,01-05-2025,West,C0115,57,Male,Clothing,Women's Jacket,2,93.44,0,186.88,Cash
+T01145,01-05-2025,East,C0058,55,Male,Clothing,Men's Jeans,2,45.52,0,91.04,UPI
+T00254,01-05-2025,West,C0013,64,Male,Beauty & Personal Care,Hair Dryer,5,40.58,0.05,192.76,Cash
+T00487,02-05-2025,East,C0050,53,Female,Sports & Outdoors,Backpack,1,49.1,0,49.1,UPI
+T01030,02-05-2025,South,C0283,31,Male,Beauty & Personal Care,Face Cleanser,4,14.85,0,59.38,UPI
+T00294,02-05-2025,North,C0214,34,Non-disclosed,Electronics,Headphones,2,75.26,0.15,127.94,Card
+T00738,02-05-2025,East,C0210,61,Male,Clothing,Men's Jeans,3,52.27,0,156.82,Card
+T01069,02-05-2025,North,C0009,21,Female,Sports & Outdoors,Water Bottle,1,20.75,0.2,16.6,Card
+T00371,03-05-2025,North,C0030,29,Non-disclosed,Clothing,Sneakers,4,71.26,0.15,242.28,Net Banking
+T00169,03-05-2025,North,C0191,25,Female,Clothing,Sneakers,1,67.38,0,67.38,Card
+T00199,04-05-2025,East,C0201,37,Female,Beauty & Personal Care,Skincare Set,1,37.88,0.1,34.09,Card
+T01176,04-05-2025,South,C0114,58,Female,Beauty & Personal Care,Perfume,1,69.87,0.1,62.89,UPI
+T00627,04-05-2025,South,C0148,50,Male,Electronics,Tablet,2,236.35,0,472.7,Card
+T01142,04-05-2025,North,C0177,20,Female,Electronics,Tablet,5,224.63,0,1123.16,Cash
+T01160,05-05-2025,West,C0114,51,Male,Sports & Outdoors,Yoga Mat,5,28.01,0,140.04,Cash
+T00991,06-05-2025,North,C0013,32,Male,Beauty & Personal Care,Hair Dryer,2,39.93,0,79.86,Card
+T00197,06-05-2025,North,C0174,47,Female,Clothing,T-Shirt,3,20.01,0.15,51.02,UPI
+T00139,07-05-2025,South,C0311,50,Female,Electronics,Laptop,1,713.1,0.05,677.45,Card
+T00268,07-05-2025,West,C0279,49,Female,Sports & Outdoors,Yoga Mat,3,26.68,0.15,68.04,Cash
+T00979,09-05-2025,West,C0343,37,Male,Clothing,T-Shirt,4,22.36,0.05,84.97,Card
+T00044,10-05-2025,North,C0096,27,Male,Sports & Outdoors,Water Bottle,2,18.32,0.1,32.98,UPI
+T00521,11-05-2025,East,C0117,44,Female,Electronics,Laptop,1,698.21,0.05,663.3,Net Banking
+T00998,12-05-2025,North,C0083,23,Male,Clothing,Women's Jacket,4,91.55,0,366.2,Card
+T00765,12-05-2025,South,C0200,45,Female,Home & Living,Cookware Set,1,74.22,0.15,63.09,UPI
+T00301,13-05-2025,South,C0066,21,Female,Beauty & Personal Care,Perfume,5,55.65,0.15,236.53,Cash
+T00194,13-05-2025,North,C0121,50,Male,Electronics,Laptop,2,745.93,0,1491.87,Card
+T00746,13-05-2025,East,C0088,21,Male,Clothing,Sneakers,3,83.57,0.1,225.63,Cash
+T00053,13-05-2025,East,C0347,53,Male,Home & Living,Cookware Set,4,72.93,0.1,262.55,Net Banking
+T00063,14-05-2025,North,C0214,22,Female,Sports & Outdoors,Running Shoes,4,83.02,0,332.09,UPI
+T00630,14-05-2025,North,C0263,52,Male,Beauty & Personal Care,Perfume,2,74.75,0,149.49,UPI
+T00201,14-05-2025,East,C0321,28,Male,Beauty & Personal Care,Face Cleanser,4,17.81,0.1,64.13,Card
+T01138,14-05-2025,North,C0188,64,Female,Electronics,Tablet,3,278.13,0.1,750.95,UPI
+T01052,14-05-2025,North,C0350,36,Female,Clothing,Women's Jacket,1,82.7,0.05,78.56,Card
+T00393,15-05-2025,West,C0178,39,Female,Beauty & Personal Care,Perfume,3,70.9,0,212.71,UPI
+T00628,15-05-2025,South,C0259,51,Female,Beauty & Personal Care,Hair Dryer,2,37.49,0,74.98,Card
+T01151,16-05-2025,East,C0049,60,Female,Electronics,Headphones,1,97.87,0.15,83.19,UPI
+T01044,16-05-2025,North,C0003,59,Male,Electronics,Tablet,4,243.42,0.15,827.63,UPI
+T00332,16-05-2025,South,C0226,22,Male,Beauty & Personal Care,Hair Dryer,4,36.28,0.15,123.34,Card
+T00022,16-05-2025,South,C0251,42,Male,Home & Living,Cookware Set,4,68.37,0.05,259.81,Net Banking
+T00909,16-05-2025,North,C0014,40,Female,Electronics,Laptop,4,712.81,0.05,2708.67,Card
+T00068,16-05-2025,West,C0203,35,Female,Electronics,Laptop,3,783.38,0,2350.14,UPI
+T00576,17-05-2025,East,C0093,18,Male,Electronics,Smartphone,5,454.87,0,2274.35,UPI
+T00374,17-05-2025,West,C0159,44,Male,Electronics,Headphones,5,82.47,0.1,371.1,Net Banking
+T00498,17-05-2025,West,C0071,40,Female,Electronics,Tablet,2,262.05,0.15,445.49,Card
+T00770,18-05-2025,South,C0111,44,Male,Sports & Outdoors,Yoga Mat,2,26.38,0.1,47.48,Card
+T00913,18-05-2025,East,C0111,27,Male,Electronics,Smartphone,1,571.28,0.2,457.02,Net Banking
+T00379,19-05-2025,South,C0085,41,Male,Clothing,T-Shirt,4,22.25,0.1,80.11,Card
+T00634,19-05-2025,East,C0123,59,Male,Clothing,T-Shirt,3,24.07,0,72.22,Card
+T00758,20-05-2025,South,C0276,18,Male,Clothing,Women's Jacket,3,88.37,0,265.1,UPI
+T00188,20-05-2025,South,C0287,24,Male,Beauty & Personal Care,Face Cleanser,3,14.41,0.05,41.08,UPI
+T01017,21-05-2025,North,C0056,45,Male,Clothing,T-Shirt,3,21.42,0.05,61.06,UPI
+T01159,21-05-2025,West,C0206,43,Female,Electronics,Laptop,4,679.02,0.15,2308.68,Card
+T00614,21-05-2025,South,C0261,64,Female,Home & Living,Home Decor,5,63.82,0.1,287.2,Card
+T00094,22-05-2025,South,C0026,60,Female,Electronics,Smartphone,2,543.23,0.05,1032.13,Card
+T01066,22-05-2025,West,C0046,34,Female,Electronics,Smartphone,3,450.54,0.15,1148.86,Net Banking
+T00809,23-05-2025,West,C0002,38,Female,Home & Living,Home Decor,2,59.49,0,118.98,UPI
+T01173,23-05-2025,East,C0349,39,Male,Electronics,Tablet,4,223.59,0.1,804.93,Net Banking
+T01094,24-05-2025,East,C0119,43,Female,Home & Living,Cookware Set,1,85.64,0,85.64,UPI
+T00552,24-05-2025,West,C0176,43,Male,Beauty & Personal Care,Face Cleanser,3,16.4,0.05,46.73,Card
+T00440,26-05-2025,North,C0340,22,Female,Home & Living,Cookware Set,5,73.83,0,369.16,Card
+T01168,26-05-2025,North,C0125,28,Female,Clothing,T-Shirt,3,24.39,0.1,65.86,Cash
+T00027,27-05-2025,West,C0059,64,Male,Home & Living,Cookware Set,1,83.92,0.2,67.14,Cash
+T00957,27-05-2025,West,C0140,27,Female,Sports & Outdoors,Yoga Mat,1,23.93,0.05,22.73,Cash
+T00585,28-05-2025,North,C0342,30,Female,Electronics,Headphones,3,99.37,0.1,268.31,Cash
+T00942,28-05-2025,North,C0233,65,Male,Beauty & Personal Care,Perfume,2,67.33,0.15,114.45,Card
+T00164,29-05-2025,North,C0311,22,Male,Electronics,Laptop,1,821.1,0,821.1,UPI
+T00687,29-05-2025,South,C0102,30,Male,Beauty & Personal Care,Skincare Set,2,37.21,0.05,70.7,Cash
+T01131,29-05-2025,West,C0022,32,Male,Home & Living,Cookware Set,1,88.22,0,88.22,Cash
+T00065,30-05-2025,South,C0220,54,Male,Home & Living,Cookware Set,3,86.11,0,258.32,Card
+T00144,30-05-2025,North,C0113,62,Male,Electronics,Tablet,4,241.1,0.1,867.97,UPI
+T00163,30-05-2025,North,C0050,20,Male,Home & Living,Home Decor,1,58.72,0,58.72,UPI
+T00373,30-05-2025,North,C0034,38,Male,Home & Living,Desk Lamp,1,25.3,0,25.3,UPI
+T00962,30-05-2025,East,C0284,65,Female,Sports & Outdoors,Running Shoes,2,102.08,0.1,183.75,UPI
+T00907,31-05-2025,East,C0346,64,Female,Sports & Outdoors,Yoga Mat,3,22.61,0.1,61.04,UPI
+T00496,31-05-2025,South,C0147,35,Female,Electronics,Tablet,4,278.36,0.15,946.44,Card
+T00960,31-05-2025,West,C0335,64,Female,Home & Living,Bedsheet,3,33.24,0.05,94.72,Card
+T00572,01-06-2025,East,C0335,55,Male,Clothing,T-Shirt,1,21.58,0,21.58,UPI
+T01191,01-06-2025,East,C0108,25,Male,Beauty & Personal Care,Perfume,5,67.3,0,336.51,Net Banking
+T01043,01-06-2025,South,C0226,45,Female,Clothing,T-Shirt,3,20.92,0.15,53.35,UPI
+T00248,01-06-2025,East,C0046,62,Non-disclosed,Home & Living,Cookware Set,3,80.92,0,242.76,Card
+T00275,02-06-2025,East,C0321,64,Non-disclosed,Clothing,T-Shirt,3,22.3,0.1,60.21,UPI
+T00624,02-06-2025,East,C0211,44,Non-disclosed,Electronics,Tablet,3,281.41,0.15,717.59,Cash
+T00972,02-06-2025,East,C0265,58,Non-disclosed,Beauty & Personal Care,Hair Dryer,5,40.15,0,200.73,Card
+T00425,02-06-2025,East,C0028,52,Female,Sports & Outdoors,Backpack,5,46.08,0.05,218.86,UPI
+T00732,02-06-2025,South,C0198,60,Female,Home & Living,Cookware Set,1,84.63,0.1,76.16,Card
+T00165,02-06-2025,West,C0173,52,Female,Beauty & Personal Care,Skincare Set,5,46.02,0.2,184.09,UPI
+T01079,02-06-2025,West,C0282,19,Female,Home & Living,Home Decor,1,49.98,0,49.98,UPI
+T00464,02-06-2025,East,C0217,49,Male,Electronics,Laptop,4,614.19,0.1,2211.09,Card
+T00929,02-06-2025,North,C0135,40,Female,Clothing,T-Shirt,2,25.36,0.05,48.17,Cash
+T01185,03-06-2025,North,C0243,59,Male,Electronics,Laptop,5,649.97,0.05,3087.38,Card
+T01059,04-06-2025,South,C0153,35,Female,Beauty & Personal Care,Face Cleanser,3,15.85,0.1,42.8,Cash
+T00777,04-06-2025,East,C0028,53,Female,Beauty & Personal Care,Hair Dryer,1,38.13,0.1,34.32,Card
+T00500,05-06-2025,North,C0334,41,Female,Beauty & Personal Care,Perfume,2,71.89,0,143.78,Card
+T00954,06-06-2025,South,C0080,30,Male,Electronics,Tablet,4,239.65,0.05,910.66,UPI
+T00547,06-06-2025,East,C0044,57,Male,Sports & Outdoors,Water Bottle,5,17.93,0,89.66,UPI
+T00473,07-06-2025,South,C0092,65,Non-disclosed,Beauty & Personal Care,Perfume,4,56,0,224,Card
+T00795,07-06-2025,West,C0185,43,Female,Clothing,T-Shirt,5,23.02,0,115.12,Card
+T00238,07-06-2025,West,C0219,40,Male,Electronics,Smartphone,5,482.55,0.1,2171.46,UPI
+T01153,07-06-2025,West,C0127,39,Female,Electronics,Laptop,2,746.94,0.15,1269.8,Card
+T00994,07-06-2025,South,C0168,33,Male,Sports & Outdoors,Water Bottle,3,19.31,0,57.93,Card
+T00435,08-06-2025,South,C0205,23,Male,Beauty & Personal Care,Hair Dryer,1,40.43,0.1,36.39,Cash
+T00091,08-06-2025,North,C0033,51,Male,Electronics,Laptop,4,614.48,0.05,2335.04,UPI
+T00407,08-06-2025,West,C0296,53,Female,Beauty & Personal Care,Hair Dryer,3,43.05,0.1,116.23,UPI
+T00633,08-06-2025,North,C0323,20,Male,Home & Living,Home Decor,3,59.13,0,177.4,Card
+T01100,08-06-2025,East,C0211,56,Female,Clothing,Sneakers,3,66.04,0.1,178.31,Card
+T00354,08-06-2025,North,C0139,21,Male,Beauty & Personal Care,Face Cleanser,4,17.17,0.15,58.37,Cash
+T00621,08-06-2025,North,C0153,24,Female,Electronics,Laptop,1,760.06,0.2,608.05,Card
+T00005,08-06-2025,West,C0350,60,Female,Home & Living,Cookware Set,1,87.7,0.1,78.93,Card
+T00155,08-06-2025,East,C0349,35,Male,Sports & Outdoors,Yoga Mat,5,28.61,0.1,128.76,UPI
+T00756,09-06-2025,North,C0069,19,Female,Beauty & Personal Care,Face Cleanser,1,14.85,0,14.85,UPI
+T01039,09-06-2025,North,C0103,39,Female,Clothing,Sneakers,3,74.58,0.15,190.18,UPI
+T00082,09-06-2025,North,C0009,45,Female,Home & Living,Cookware Set,2,77.38,0,154.76,Card
+T00140,09-06-2025,South,C0296,35,Male,Electronics,Smartphone,3,581.27,0,1743.81,Card
+T00121,10-06-2025,South,C0147,54,Male,Home & Living,Home Decor,2,61.71,0.05,117.25,UPI
+T00298,10-06-2025,North,C0160,30,Male,Home & Living,Desk Lamp,2,28.36,0.15,48.22,Net Banking
+T00004,10-06-2025,East,C0041,34,Male,Beauty & Personal Care,Hair Dryer,1,40,0,40,Card
+T00030,11-06-2025,West,C0345,57,Female,Home & Living,Cookware Set,4,74.75,0.1,269.11,Card
+T00285,11-06-2025,North,C0107,48,Female,Home & Living,Cookware Set,1,90.82,0.05,86.28,UPI
+T00935,11-06-2025,North,C0183,40,Male,Clothing,Women's Jacket,4,108.17,0.1,389.4,Cash
+T00800,11-06-2025,South,C0260,46,Female,Sports & Outdoors,Water Bottle,1,18.95,0.2,15.16,UPI
+T00186,12-06-2025,South,C0313,57,Female,Sports & Outdoors,Backpack,1,59.91,0.2,47.92,Net Banking
+T00869,12-06-2025,East,C0187,35,Male,Home & Living,Bedsheet,5,32.94,0,164.7,Card
+T00047,12-06-2025,North,C0005,56,Male,Clothing,Men's Jeans,1,54.34,0.15,46.18,Card
+T00689,12-06-2025,South,C0337,40,Male,Electronics,Headphones,5,83.3,0.05,395.66,Card
+T00923,12-06-2025,West,C0304,26,Male,Clothing,Women's Jacket,4,94.28,0.15,320.56,UPI
+T00267,13-06-2025,West,C0074,31,Female,Home & Living,Bedsheet,4,31.66,0,126.65,UPI
+T01092,13-06-2025,West,C0254,45,Male,Sports & Outdoors,Running Shoes,2,87.82,0.1,158.08,Card
+T00219,13-06-2025,East,C0151,26,Female,Home & Living,Home Decor,5,46.79,0.1,210.56,Cash
+T00883,13-06-2025,East,C0007,52,Male,Electronics,Tablet,3,256.75,0.05,731.75,UPI
+T01184,13-06-2025,North,C0095,42,Male,Home & Living,Cookware Set,4,72.99,0,291.95,Card
+T00031,14-06-2025,West,C0254,59,Non-disclosed,Clothing,Sneakers,3,87.91,0.05,250.55,Card
+T00214,14-06-2025,East,C0059,21,Female,Clothing,Women's Jacket,2,85.47,0.1,153.85,Card
+T00020,14-06-2025,North,C0004,47,Female,Home & Living,Desk Lamp,2,30.13,0.05,57.24,Cash
+T01057,14-06-2025,North,C0296,62,Male,Home & Living,Cookware Set,3,83.9,0.05,239.1,Card
+T00792,15-06-2025,West,C0294,60,Female,Sports & Outdoors,Backpack,1,58.87,0,58.87,Card
+T00833,15-06-2025,North,C0179,34,Female,Sports & Outdoors,Running Shoes,4,76.15,0.15,258.9,UPI
+T00506,15-06-2025,East,C0249,38,Female,Clothing,Women's Jacket,2,90.06,0.15,153.1,UPI
+T00871,16-06-2025,West,C0176,52,Female,Home & Living,Home Decor,1,52.09,0.05,49.49,Card
+T00205,16-06-2025,North,C0169,23,Male,Electronics,Laptop,3,703.19,0.1,1898.6,Card
+T00537,16-06-2025,South,C0168,62,Male,Sports & Outdoors,Running Shoes,1,94.6,0,94.6,Cash
+T00222,16-06-2025,East,C0055,36,Female,Electronics,Smartphone,5,472.94,0.05,2246.47,Card
+T00114,17-06-2025,West,C0210,39,Male,Home & Living,Bedsheet,1,39.22,0.05,37.26,UPI
+T00798,17-06-2025,West,C0303,37,Male,Clothing,T-Shirt,2,22.12,0,44.24,Card
+T00905,17-06-2025,West,C0187,38,Female,Beauty & Personal Care,Hair Dryer,1,42.65,0.1,38.39,UPI
+T00335,17-06-2025,East,C0126,58,Female,Home & Living,Home Decor,2,55.88,0,111.76,UPI
+T00916,17-06-2025,North,C0050,55,Female,Electronics,Tablet,5,300.48,0.1,1352.18,Card
+T00612,18-06-2025,West,C0286,53,Male,Sports & Outdoors,Yoga Mat,4,26.87,0.1,96.72,UPI
+T00176,18-06-2025,West,C0311,23,Male,Electronics,Smartphone,5,471.12,0,2355.6,Net Banking
+T00073,18-06-2025,West,C0172,63,Female,Sports & Outdoors,Water Bottle,3,20.09,0.2,48.22,UPI
+T00939,18-06-2025,West,C0006,48,Male,Beauty & Personal Care,Face Cleanser,5,14.8,0,74,Cash
+T00485,18-06-2025,West,C0034,58,Female,Electronics,Headphones,3,100.21,0.05,285.61,Cash
+T00647,18-06-2025,East,C0163,62,Female,Electronics,Laptop,2,626.85,0.05,1191.02,UPI
+T00231,19-06-2025,East,C0135,46,Male,Electronics,Smartphone,5,494.87,0.05,2350.65,Card
+T00277,20-06-2025,South,C0077,19,Female,Sports & Outdoors,Yoga Mat,5,25.67,0,128.37,Cash
+T00054,20-06-2025,North,C0225,19,Male,Beauty & Personal Care,Perfume,5,66.63,0,333.17,Cash
+T01075,20-06-2025,West,C0171,18,Female,Electronics,Headphones,1,82.96,0,82.96,Card
+T00474,20-06-2025,West,C0020,22,Male,Beauty & Personal Care,Face Cleanser,4,15.08,0,60.34,Card
+T00710,20-06-2025,West,C0251,50,Male,Home & Living,Cookware Set,1,73.72,0.1,66.35,UPI
+T01102,21-06-2025,West,C0196,59,Male,Sports & Outdoors,Backpack,2,54.73,0.05,103.98,Cash
+T00124,21-06-2025,West,C0310,57,Male,Clothing,Women's Jacket,5,82.6,0.1,371.69,Card
+T00367,21-06-2025,West,C0103,27,Male,Sports & Outdoors,Backpack,3,57.16,0.05,162.9,UPI
+T00070,21-06-2025,South,C0278,47,Male,Beauty & Personal Care,Face Cleanser,3,17.6,0,52.79,Card
+T00109,22-06-2025,South,C0102,50,Male,Beauty & Personal Care,Hair Dryer,4,44.09,0.15,149.9,Cash
+T00290,22-06-2025,East,C0034,33,Female,Clothing,Sneakers,1,76.96,0.15,65.41,Card
+T00974,23-06-2025,West,C0261,41,Male,Electronics,Headphones,3,73.56,0.1,198.62,Card
+T00709,23-06-2025,North,C0150,48,Male,Home & Living,Home Decor,1,59.14,0.05,56.18,Cash
+T00944,23-06-2025,North,C0076,26,Male,Beauty & Personal Care,Perfume,4,75.19,0.05,285.71,UPI
+T00519,23-06-2025,North,C0078,35,Female,Home & Living,Home Decor,3,55.94,0.15,142.66,Card
+T00076,23-06-2025,South,C0246,48,Female,Beauty & Personal Care,Skincare Set,2,36.28,0,72.57,Card
+T00622,24-06-2025,North,C0262,46,Male,Electronics,Tablet,3,244.56,0.15,623.64,Cash
+T00768,24-06-2025,North,C0269,55,Female,Electronics,Headphones,2,81.18,0.05,154.24,UPI
+T00973,24-06-2025,East,C0059,53,Male,Sports & Outdoors,Yoga Mat,2,28.16,0.2,45.05,Net Banking
+T00785,24-06-2025,West,C0268,62,Male,Electronics,Laptop,4,665.96,0,2663.85,UPI
+T00644,25-06-2025,North,C0277,34,Female,Home & Living,Cookware Set,5,79.33,0.2,317.31,Card
+T01101,25-06-2025,West,C0074,39,Female,Clothing,Women's Jacket,5,98.12,0.15,417,Net Banking
+T00276,26-06-2025,West,C0209,41,Male,Home & Living,Home Decor,4,58.63,0.15,199.34,Card
+T01146,26-06-2025,East,C0258,22,Male,Clothing,Women's Jacket,5,82.93,0.15,352.44,Net Banking
+T01031,27-06-2025,South,C0209,54,Female,Electronics,Tablet,2,289.66,0.05,550.36,UPI
+T00282,27-06-2025,East,C0210,44,Male,Electronics,Smartphone,2,551.12,0.05,1047.14,Net Banking
+T00729,28-06-2025,North,C0234,22,Male,Beauty & Personal Care,Skincare Set,5,45.63,0.1,205.35,UPI
+T01116,28-06-2025,East,C0335,19,Female,Electronics,Tablet,1,254.98,0.05,242.23,UPI
+T00651,28-06-2025,North,C0079,23,Male,Home & Living,Home Decor,2,50.41,0.05,95.78,Cash
+T00444,28-06-2025,East,C0328,27,Female,Clothing,Sneakers,4,64.71,0.1,232.97,Card
+T00284,29-06-2025,South,C0127,31,Male,Electronics,Laptop,1,650.78,0.1,585.71,Card
+T00235,29-06-2025,East,C0143,19,Female,Electronics,Tablet,3,270.41,0,811.22,Card
+T00718,29-06-2025,North,C0128,59,Female,Electronics,Headphones,1,90.99,0,90.99,Card
+T00563,29-06-2025,West,C0308,30,Male,Clothing,Women's Jacket,3,109.65,0.05,312.51,Card
+T00203,30-06-2025,West,C0105,54,Female,Sports & Outdoors,Yoga Mat,1,21.41,0.15,18.2,UPI
+T01018,30-06-2025,East,C0119,35,Male,Home & Living,Bedsheet,5,30.19,0,150.94,Cash
+T00185,30-06-2025,West,C0068,24,Male,Home & Living,Home Decor,4,62.03,0.1,223.32,Cash
+T01120,30-06-2025,West,C0058,45,Male,Beauty & Personal Care,Hair Dryer,2,36.41,0.05,69.19,Card
+T00252,30-06-2025,North,C0137,34,Male,Electronics,Laptop,4,819.92,0.05,3115.68,Card
+T00055,01-07-2025,West,C0183,29,Female,Beauty & Personal Care,Face Cleanser,2,18.07,0.2,28.91,Cash
+T00183,01-07-2025,South,C0271,27,Male,Beauty & Personal Care,Skincare Set,2,38.82,0.05,73.76,UPI
+T01162,02-07-2025,North,C0091,54,Female,Sports & Outdoors,Backpack,4,45.53,0.05,173,UPI
+T00453,02-07-2025,North,C0258,51,Male,Clothing,Sneakers,2,66.87,0,133.75,Cash
+T00405,02-07-2025,East,C0104,26,Female,Clothing,Sneakers,1,81.07,0.1,72.97,UPI
+T00406,02-07-2025,South,C0173,33,Female,Home & Living,Desk Lamp,2,26.77,0.1,48.19,UPI
+T00021,02-07-2025,East,C0175,45,Male,Sports & Outdoors,Running Shoes,2,80.08,0.05,152.15,Card
+T00180,02-07-2025,West,C0167,26,Female,Electronics,Tablet,2,223.25,0.15,379.52,Card
+T01091,03-07-2025,West,C0198,51,Male,Electronics,Headphones,3,81.57,0,244.7,UPI
+T01053,03-07-2025,North,C0307,61,Female,Beauty & Personal Care,Hair Dryer,1,35.54,0.05,33.76,UPI
+T00667,03-07-2025,North,C0095,51,Female,Beauty & Personal Care,Skincare Set,4,39.77,0.05,151.11,Net Banking
+T01008,03-07-2025,North,C0022,48,Male,Beauty & Personal Care,Hair Dryer,2,43.96,0,87.92,Net Banking
+T00629,04-07-2025,West,C0026,40,Non-disclosed,Home & Living,Cookware Set,3,88.77,0.2,213.05,Net Banking
+T00556,04-07-2025,North,C0115,31,Male,Beauty & Personal Care,Hair Dryer,5,39.13,0.1,176.1,Card
+T00420,04-07-2025,South,C0276,28,Male,Clothing,Men's Jeans,4,48.91,0.05,185.87,Net Banking
+T00159,04-07-2025,North,C0036,40,Female,Beauty & Personal Care,Face Cleanser,5,16.17,0.1,72.75,Card
+T01152,04-07-2025,North,C0003,38,Male,Beauty & Personal Care,Perfume,3,71.41,0,214.22,Net Banking
+T00876,04-07-2025,South,C0259,63,Male,Home & Living,Cookware Set,5,73.9,0.1,332.53,Card
+T00115,04-07-2025,West,C0275,36,Male,Electronics,Laptop,5,595.71,0,2978.54,UPI
+T00445,05-07-2025,North,C0113,24,Male,Clothing,Men's Jeans,1,45.12,0.05,42.87,UPI
+T01051,05-07-2025,North,C0342,63,Female,Clothing,Sneakers,4,75.61,0.05,287.33,Card
+T00897,05-07-2025,West,C0146,64,Female,Beauty & Personal Care,Perfume,2,70.04,0.15,119.06,UPI
+T00940,05-07-2025,South,C0248,42,Male,Home & Living,Desk Lamp,1,31.59,0.1,28.43,UPI
+T00017,07-07-2025,East,C0191,61,Male,Beauty & Personal Care,Perfume,4,69.81,0,279.26,UPI
+T00344,07-07-2025,South,C0205,58,Female,Beauty & Personal Care,Hair Dryer,5,38.49,0.15,163.57,Card
+T01000,07-07-2025,North,C0004,45,Female,Beauty & Personal Care,Face Cleanser,5,16.47,0.15,69.98,UPI
+T00608,07-07-2025,South,C0112,39,Male,Clothing,Sneakers,3,78.47,0.15,200.1,UPI
+T00803,08-07-2025,West,C0032,22,Female,Clothing,T-Shirt,2,24.27,0.1,43.68,UPI
+T00717,08-07-2025,East,C0050,47,Male,Electronics,Headphones,4,93.25,0.05,354.37,Card
+T00549,08-07-2025,South,C0050,36,Female,Electronics,Headphones,3,96.62,0.05,275.37,UPI
+T01165,08-07-2025,North,C0135,37,Female,Clothing,T-Shirt,5,25.12,0.05,119.33,Card
+T01010,09-07-2025,South,C0095,38,Male,Electronics,Headphones,5,74.3,0,371.51,Card
+T01015,09-07-2025,West,C0344,49,Male,Electronics,Smartphone,1,511.45,0.1,460.31,Net Banking
+T00366,09-07-2025,South,C0216,63,Male,Clothing,Women's Jacket,5,101.46,0.05,481.93,Card
+T00701,09-07-2025,North,C0345,33,Female,Electronics,Tablet,1,263.8,0.1,237.42,Card
+T00296,10-07-2025,West,C0185,40,Male,Clothing,T-Shirt,5,21.3,0.05,101.16,UPI
+T00893,10-07-2025,East,C0054,40,Female,Sports & Outdoors,Yoga Mat,4,24.09,0.15,81.89,Card
+T00712,10-07-2025,West,C0168,62,Male,Clothing,Women's Jacket,3,95.35,0.05,271.74,UPI
+T00449,10-07-2025,West,C0269,25,Female,Clothing,Men's Jeans,3,45.71,0,137.13,Card
+T00679,10-07-2025,West,C0307,27,Female,Clothing,Sneakers,4,73.34,0,293.36,UPI
+T00578,11-07-2025,South,C0214,25,Male,Home & Living,Home Decor,5,48.24,0.05,229.13,UPI
+T01195,11-07-2025,West,C0142,60,Female,Home & Living,Bedsheet,1,34.76,0.2,27.81,Card
+T01074,11-07-2025,North,C0048,53,Male,Electronics,Laptop,3,793.59,0.1,2142.7,Cash
+T00997,12-07-2025,North,C0028,28,Female,Home & Living,Cookware Set,2,79.7,0.15,135.48,Card
+T00011,12-07-2025,East,C0028,65,Female,Electronics,Smartphone,4,561.99,0,2247.98,UPI
+T00507,13-07-2025,North,C0163,22,Male,Home & Living,Desk Lamp,5,24.6,0.1,110.69,UPI
+T00488,13-07-2025,East,C0119,25,Male,Beauty & Personal Care,Perfume,4,64.97,0,259.87,UPI
+T00995,13-07-2025,West,C0100,50,Male,Beauty & Personal Care,Hair Dryer,1,43.34,0.1,39.01,Card
+T01147,13-07-2025,East,C0066,50,Female,Clothing,Sneakers,2,81.65,0,163.31,Card
+T01164,13-07-2025,North,C0153,32,Male,Home & Living,Desk Lamp,1,32.12,0.2,25.69,UPI
+T00656,14-07-2025,West,C0320,55,Female,Home & Living,Desk Lamp,5,32.57,0,162.87,Cash
+T00747,14-07-2025,South,C0296,28,Male,Sports & Outdoors,Yoga Mat,4,26.16,0.15,88.94,UPI
+T00351,14-07-2025,South,C0185,49,Male,Home & Living,Cookware Set,2,69.86,0,139.72,Cash
+T00648,15-07-2025,North,C0179,26,Male,Clothing,Sneakers,5,79.98,0,399.92,UPI
+T00561,15-07-2025,North,C0339,43,Female,Beauty & Personal Care,Hair Dryer,2,38.59,0,77.18,UPI
+T00606,15-07-2025,North,C0244,27,Male,Electronics,Smartphone,4,567.21,0.05,2155.41,Net Banking
+T00931,16-07-2025,South,C0044,47,Female,Electronics,Laptop,1,664.22,0.05,631.01,Card
+T01140,16-07-2025,East,C0008,51,Male,Electronics,Smartphone,3,489.56,0.1,1321.8,Card
+T00927,17-07-2025,South,C0051,51,Non-disclosed,Beauty & Personal Care,Perfume,3,64.68,0.15,164.93,UPI
+T00289,17-07-2025,North,C0336,35,Female,Beauty & Personal Care,Perfume,1,61.44,0.15,52.22,UPI
+T00877,17-07-2025,South,C0092,44,Male,Clothing,Women's Jacket,3,96.05,0,288.14,Cash
+T00539,17-07-2025,North,C0236,31,Female,Home & Living,Cookware Set,4,71.46,0.1,257.27,UPI
+T00305,18-07-2025,West,C0010,45,Male,Home & Living,Cookware Set,4,71.45,0.1,257.22,Card
+T00789,18-07-2025,West,C0271,28,Male,Clothing,Men's Jeans,1,55.36,0.1,49.83,Card
+T00917,18-07-2025,North,C0331,26,Female,Home & Living,Home Decor,1,57.67,0.1,51.9,UPI
+T00295,18-07-2025,East,C0031,53,Female,Sports & Outdoors,Yoga Mat,5,23.49,0.1,105.7,Card
+T00807,18-07-2025,West,C0067,38,Female,Home & Living,Cookware Set,3,88.43,0.05,252.04,UPI
+T00229,19-07-2025,West,C0014,33,Non-disclosed,Home & Living,Home Decor,5,51.05,0,255.25,Cash
+T00983,19-07-2025,South,C0250,21,Male,Home & Living,Desk Lamp,4,23.83,0.1,85.79,Net Banking
+T00029,19-07-2025,East,C0064,44,Male,Sports & Outdoors,Water Bottle,5,18.61,0.2,74.43,Card
+T00057,19-07-2025,West,C0130,58,Female,Electronics,Laptop,5,602.04,0,3010.21,UPI
+T00331,19-07-2025,South,C0282,24,Male,Electronics,Laptop,3,773.01,0,2319.03,UPI
+T00879,20-07-2025,South,C0078,41,Male,Beauty & Personal Care,Hair Dryer,1,36.69,0.1,33.02,Card
+T00992,20-07-2025,North,C0093,46,Male,Electronics,Tablet,2,279.48,0.1,503.07,Card
+T00655,21-07-2025,North,C0181,51,Female,Home & Living,Home Decor,4,48.32,0,193.3,Cash
+T00762,21-07-2025,South,C0340,30,Female,Home & Living,Cookware Set,1,72.2,0.1,64.98,Card
+T00034,22-07-2025,South,C0145,51,Male,Electronics,Tablet,2,287.32,0.05,545.91,Net Banking
+T00330,22-07-2025,East,C0112,26,Female,Electronics,Headphones,1,87.7,0.05,83.31,UPI
+T00456,22-07-2025,East,C0302,25,Female,Home & Living,Home Decor,2,62.54,0.15,106.32,Card
+T00755,22-07-2025,West,C0305,49,Male,Clothing,T-Shirt,4,20.35,0.05,77.34,UPI
+T00132,22-07-2025,North,C0251,20,Male,Home & Living,Cookware Set,3,92.81,0.15,236.66,Cash
+T01084,22-07-2025,North,C0250,39,Female,Clothing,T-Shirt,3,21.45,0.1,57.91,Net Banking
+T00113,22-07-2025,West,C0047,33,Female,Sports & Outdoors,Running Shoes,3,82.31,0.05,234.58,UPI
+T00308,22-07-2025,North,C0319,45,Male,Sports & Outdoors,Yoga Mat,4,22.8,0.15,77.52,Net Banking
+T01003,23-07-2025,East,C0283,20,Female,Electronics,Tablet,3,235.61,0,706.82,Card
+T00158,23-07-2025,West,C0013,47,Female,Electronics,Headphones,2,81.05,0.05,154,Card
+T01129,23-07-2025,North,C0008,40,Female,Clothing,Women's Jacket,1,94.47,0.1,85.03,Card
+T00134,24-07-2025,South,C0283,33,Female,Beauty & Personal Care,Perfume,2,65.42,0.05,124.3,UPI
+T00079,26-07-2025,North,C0019,35,Non-disclosed,Home & Living,Bedsheet,3,33.09,0.1,89.34,Card
+T00706,26-07-2025,West,C0042,32,Female,Electronics,Laptop,5,727.17,0.2,2908.68,Card
+T00980,26-07-2025,West,C0115,35,Female,Electronics,Smartphone,1,532.66,0.05,506.03,Card
+T01189,26-07-2025,West,C0137,59,Female,Electronics,Smartphone,5,520.17,0.15,2210.72,Card
+T00126,26-07-2025,North,C0048,44,Female,Electronics,Laptop,5,722.27,0.15,3069.66,Net Banking
+T00131,26-07-2025,South,C0252,25,Female,Home & Living,Home Decor,2,48.6,0.05,92.33,Card
+T01029,26-07-2025,North,C0272,28,Female,Beauty & Personal Care,Perfume,2,59.39,0.05,112.84,Cash
+T00437,27-07-2025,South,C0044,51,Male,Electronics,Tablet,1,250.2,0.15,212.67,Card
+T00116,27-07-2025,North,C0336,61,Non-disclosed,Electronics,Laptop,3,738.15,0.2,1771.55,Cash
+T00978,28-07-2025,West,C0064,35,Male,Home & Living,Home Decor,1,46.83,0.15,39.8,Cash
+T00570,28-07-2025,North,C0329,32,Female,Home & Living,Home Decor,5,59.63,0.15,253.41,UPI
+T00708,28-07-2025,East,C0222,28,Female,Sports & Outdoors,Running Shoes,4,78.33,0,313.34,Net Banking
+T00922,28-07-2025,South,C0060,38,Male,Beauty & Personal Care,Perfume,5,61.83,0.05,293.7,UPI
+T00288,28-07-2025,North,C0003,20,Female,Clothing,Men's Jeans,3,42.58,0,127.73,UPI
+T00129,29-07-2025,South,C0328,54,Female,Electronics,Smartphone,2,586.15,0.2,937.85,Card
+T00535,30-07-2025,West,C0244,18,Female,Clothing,Sneakers,1,86.26,0,86.26,Net Banking
+T00930,30-07-2025,North,C0132,24,Female,Sports & Outdoors,Backpack,1,60.96,0,60.96,UPI
+T00597,31-07-2025,North,C0303,44,Male,Clothing,Sneakers,5,68.39,0.1,307.76,Card
+T00228,31-07-2025,North,C0221,47,Male,Clothing,T-Shirt,4,19.7,0.15,66.99,Cash
+T00677,31-07-2025,North,C0227,23,Male,Electronics,Tablet,3,240.04,0.1,648.11,UPI
+T00266,01-08-2025,West,C0299,35,Female,Sports & Outdoors,Yoga Mat,3,22.5,0.1,60.75,UPI
+T01161,01-08-2025,South,C0157,21,Female,Beauty & Personal Care,Skincare Set,1,44.63,0.05,42.4,Card
+T00424,01-08-2025,South,C0101,53,Male,Electronics,Headphones,1,97.48,0,97.48,Card
+T00242,02-08-2025,West,C0138,20,Female,Beauty & Personal Care,Skincare Set,4,40.06,0.15,136.21,UPI
+T00260,03-08-2025,South,C0203,38,Male,Electronics,Tablet,4,291.74,0.1,1050.27,UPI
+T00985,03-08-2025,East,C0188,42,Male,Electronics,Tablet,3,225.66,0,676.97,UPI
+T00966,03-08-2025,South,C0279,39,Female,Sports & Outdoors,Backpack,4,56.79,0.05,215.79,Card
+T01156,03-08-2025,East,C0341,59,Female,Clothing,Women's Jacket,5,109.85,0.05,521.8,Card
+T01118,03-08-2025,East,C0068,34,Female,Beauty & Personal Care,Hair Dryer,3,43.81,0.1,118.29,UPI
+T00786,03-08-2025,North,C0318,57,Female,Clothing,Sneakers,1,71.99,0.1,64.79,UPI
+T00548,04-08-2025,West,C0123,40,Female,Beauty & Personal Care,Hair Dryer,1,40.04,0.1,36.03,UPI
+T00981,04-08-2025,West,C0136,20,Male,Electronics,Smartphone,3,554.89,0.1,1498.21,Card
+T00270,04-08-2025,North,C0035,36,Non-disclosed,Home & Living,Bedsheet,1,32.47,0.15,27.6,Cash
+T00698,04-08-2025,North,C0251,23,Male,Electronics,Tablet,5,264.45,0.1,1190.01,UPI
+T00688,05-08-2025,South,C0209,64,Female,Beauty & Personal Care,Skincare Set,4,45.33,0,181.33,Cash
+T00520,05-08-2025,West,C0040,49,Female,Sports & Outdoors,Yoga Mat,1,22.48,0.05,21.35,Card
+T00915,05-08-2025,West,C0312,65,Female,Sports & Outdoors,Yoga Mat,2,22.21,0.1,39.98,Card
+T00468,06-08-2025,East,C0341,24,Female,Home & Living,Home Decor,3,52.93,0.1,142.9,UPI
+T00455,06-08-2025,North,C0227,43,Male,Sports & Outdoors,Running Shoes,1,86.9,0,86.9,UPI
+T00665,07-08-2025,East,C0336,28,Male,Electronics,Headphones,2,90.83,0.05,172.57,Card
+T00394,07-08-2025,North,C0271,36,Male,Electronics,Headphones,4,77.94,0,311.75,Card
+T01188,07-08-2025,East,C0173,37,Non-disclosed,Home & Living,Home Decor,5,50.21,0.2,200.85,Card
+T00720,07-08-2025,West,C0319,60,Female,Electronics,Headphones,2,83.69,0,167.38,Card
+T00531,07-08-2025,West,C0107,34,Female,Home & Living,Home Decor,3,52.49,0.2,125.99,UPI
+T00967,08-08-2025,North,C0309,43,Male,Clothing,Sneakers,1,72.82,0.05,69.18,Card
+T01048,08-08-2025,West,C0304,37,Male,Electronics,Smartphone,2,476.57,0.05,905.48,UPI
+T00494,09-08-2025,North,C0078,48,Female,Clothing,Women's Jacket,4,107.54,0.15,365.63,UPI
+T00137,09-08-2025,North,C0027,35,Female,Clothing,Men's Jeans,5,41.09,0.05,195.17,UPI
+T00625,09-08-2025,North,C0201,32,Female,Sports & Outdoors,Water Bottle,5,17.74,0.15,75.41,Cash
+T00193,10-08-2025,South,C0255,48,Female,Clothing,Women's Jacket,2,97.02,0.1,174.63,UPI
+T00850,10-08-2025,North,C0036,38,Male,Beauty & Personal Care,Skincare Set,4,49.29,0.05,187.29,Card
+T01181,10-08-2025,North,C0123,35,Male,Home & Living,Cookware Set,2,73.78,0.15,125.43,Cash
+T00490,10-08-2025,South,C0211,20,Female,Clothing,Men's Jeans,5,52.34,0,261.7,Net Banking
+T00269,12-08-2025,North,C0162,45,Female,Clothing,Women's Jacket,5,111.85,0.1,503.31,Net Banking
+T00956,12-08-2025,East,C0348,64,Female,Beauty & Personal Care,Face Cleanser,3,13.62,0.05,38.82,UPI
+T00767,12-08-2025,North,C0136,61,Male,Electronics,Headphones,2,82.64,0.1,148.75,Card
+T00896,12-08-2025,East,C0115,36,Male,Electronics,Tablet,2,268.67,0.15,456.74,Cash
+T00953,13-08-2025,South,C0286,30,Male,Beauty & Personal Care,Face Cleanser,3,16.1,0.15,41.06,Cash
+T01135,13-08-2025,West,C0231,23,Male,Home & Living,Home Decor,5,53.24,0.05,252.91,UPI
+T00672,13-08-2025,South,C0248,64,Male,Sports & Outdoors,Running Shoes,2,81.9,0,163.8,Net Banking
+T00601,13-08-2025,East,C0144,21,Male,Home & Living,Home Decor,3,54.68,0.05,155.83,UPI
+T00702,13-08-2025,East,C0209,60,Male,Home & Living,Home Decor,3,51.99,0,155.96,Card
+T00900,13-08-2025,East,C0103,51,Female,Sports & Outdoors,Backpack,4,58.99,0.2,188.76,Net Banking
+T00323,13-08-2025,East,C0094,52,Male,Clothing,Men's Jeans,3,53.05,0,159.15,Card
+T00987,14-08-2025,South,C0174,63,Male,Home & Living,Bedsheet,3,30.01,0,90.03,Cash
+T01200,15-08-2025,East,C0243,31,Male,Electronics,Smartphone,1,449.01,0.05,426.56,Cash
+T00675,15-08-2025,North,C0309,34,Female,Clothing,T-Shirt,2,22.47,0.15,38.2,UPI
+T00343,15-08-2025,North,C0031,20,Female,Beauty & Personal Care,Hair Dryer,2,44.71,0.15,76.01,Cash
+T00825,16-08-2025,South,C0207,22,Female,Home & Living,Bedsheet,1,37.08,0.1,33.38,UPI
+T00996,17-08-2025,East,C0118,57,Male,Home & Living,Desk Lamp,4,32.8,0.15,111.53,UPI
+T00240,17-08-2025,South,C0158,33,Male,Beauty & Personal Care,Perfume,3,61.72,0.1,166.65,Net Banking
+T00245,18-08-2025,North,C0138,41,Male,Sports & Outdoors,Backpack,4,46.08,0.1,165.89,Card
+T01171,18-08-2025,East,C0014,59,Male,Clothing,Sneakers,5,67.35,0.1,303.06,UPI
+T00599,18-08-2025,North,C0183,40,Non-disclosed,Electronics,Laptop,3,789.65,0.15,2013.61,Cash
+T00085,18-08-2025,East,C0208,40,Female,Clothing,T-Shirt,1,25.21,0.15,21.43,Card
+T00880,18-08-2025,South,C0325,35,Male,Clothing,T-Shirt,5,23.91,0,119.54,Card
+T00040,19-08-2025,West,C0094,27,Female,Beauty & Personal Care,Skincare Set,5,44.78,0,223.91,Card
+T01111,19-08-2025,West,C0050,20,Female,Beauty & Personal Care,Skincare Set,1,41.6,0.15,35.36,Card
+T00192,19-08-2025,South,C0098,65,Male,Home & Living,Home Decor,3,60.55,0.15,154.4,Card
+T01172,19-08-2025,East,C0141,64,Female,Home & Living,Desk Lamp,5,33.01,0.1,148.56,Card
+T00743,20-08-2025,South,C0312,24,Female,Clothing,T-Shirt,3,23.02,0,69.06,UPI
+T00341,20-08-2025,North,C0014,41,Female,Sports & Outdoors,Running Shoes,4,76.21,0.1,274.37,Card
+T00658,20-08-2025,West,C0109,36,Male,Electronics,Headphones,1,89.93,0.1,80.94,Card
+T00458,20-08-2025,North,C0217,46,Female,Beauty & Personal Care,Hair Dryer,5,33.65,0.1,151.41,Card
+T00130,20-08-2025,South,C0090,44,Male,Clothing,Women's Jacket,2,109.6,0.15,186.33,UPI
+T00475,20-08-2025,West,C0083,40,Female,Sports & Outdoors,Yoga Mat,5,26.7,0,133.48,Card
+T01196,20-08-2025,South,C0310,60,Male,Clothing,Sneakers,5,73.94,0.05,351.21,Net Banking
+T00958,20-08-2025,South,C0041,61,Female,Beauty & Personal Care,Face Cleanser,1,16.71,0.2,13.37,Card
+T00782,21-08-2025,North,C0045,35,Female,Beauty & Personal Care,Skincare Set,5,38.8,0.1,174.62,UPI
+T00099,21-08-2025,East,C0061,64,Male,Electronics,Tablet,3,266.73,0,800.2,UPI
+T01128,21-08-2025,West,C0280,31,Non-disclosed,Home & Living,Home Decor,2,63.47,0,126.94,Net Banking
+T00920,21-08-2025,North,C0143,44,Female,Home & Living,Desk Lamp,5,28.48,0.1,128.15,Net Banking
+T00673,21-08-2025,South,C0007,47,Female,Beauty & Personal Care,Perfume,3,70.18,0,210.53,Net Banking
+T01068,22-08-2025,North,C0148,29,Female,Home & Living,Home Decor,3,62.54,0.1,168.85,Net Banking
+T00616,22-08-2025,South,C0283,58,Male,Electronics,Laptop,5,598.68,0,2993.38,UPI
+T00600,23-08-2025,East,C0332,19,Male,Home & Living,Home Decor,1,60.51,0.15,51.43,UPI
+T00569,23-08-2025,West,C0255,36,Female,Clothing,Men's Jeans,2,44.2,0.1,79.55,Card
+T00026,24-08-2025,South,C0179,49,Female,Electronics,Tablet,4,295.88,0.1,1065.18,UPI
+T00984,25-08-2025,North,C0201,38,Female,Clothing,Men's Jeans,4,51.47,0.15,175.01,UPI
+T01130,25-08-2025,South,C0327,48,Female,Beauty & Personal Care,Face Cleanser,4,15.42,0,61.66,UPI
+T00934,25-08-2025,East,C0252,55,Male,Clothing,T-Shirt,2,22.17,0.05,42.12,Card
+T00244,26-08-2025,South,C0133,19,Female,Sports & Outdoors,Running Shoes,3,101.28,0.05,288.66,Card
+T00771,26-08-2025,North,C0345,64,Male,Electronics,Headphones,2,89.83,0.2,143.72,Card
+T00502,26-08-2025,South,C0349,29,Female,Beauty & Personal Care,Face Cleanser,3,15.95,0,47.84,UPI
+T01089,26-08-2025,East,C0278,28,Male,Electronics,Laptop,3,665.95,0,1997.84,Card
+T00824,26-08-2025,South,C0342,53,Male,Sports & Outdoors,Yoga Mat,1,26.44,0,26.44,UPI
+T00652,27-08-2025,North,C0060,29,Female,Beauty & Personal Care,Face Cleanser,3,17.46,0.1,47.15,Cash
+T00986,27-08-2025,West,C0293,37,Female,Beauty & Personal Care,Face Cleanser,5,18.17,0.15,77.24,Net Banking
+T00123,27-08-2025,North,C0251,41,Male,Clothing,Sneakers,5,79.06,0.05,375.53,Cash
+T00003,27-08-2025,West,C0297,34,Female,Electronics,Headphones,2,75.22,0.05,142.91,UPI
+T00842,28-08-2025,North,C0346,33,Non-disclosed,Beauty & Personal Care,Face Cleanser,2,14.4,0,28.79,Card
+T00316,29-08-2025,West,C0310,24,Male,Sports & Outdoors,Yoga Mat,2,23.73,0,47.46,Net Banking
+T00730,29-08-2025,North,C0034,32,Female,Home & Living,Cookware Set,2,75.57,0,151.14,Net Banking
+T00156,30-08-2025,North,C0313,49,Male,Sports & Outdoors,Water Bottle,3,19.41,0.15,49.49,Net Banking
+T00255,30-08-2025,North,C0088,36,Male,Clothing,Women's Jacket,4,97.3,0.05,369.75,Cash
+T00446,30-08-2025,South,C0172,31,Female,Electronics,Tablet,3,306.35,0.15,781.2,Card
+T00372,30-08-2025,North,C0177,55,Male,Clothing,Men's Jeans,5,54.68,0.15,232.4,Card
+T00822,31-08-2025,South,C0026,54,Male,Sports & Outdoors,Water Bottle,2,20.29,0,40.58,Net Banking
+T00819,31-08-2025,West,C0201,55,Female,Beauty & Personal Care,Hair Dryer,2,39.83,0,79.67,UPI
+T00237,31-08-2025,East,C0184,19,Female,Sports & Outdoors,Backpack,5,58.42,0,292.11,Card
+T00479,31-08-2025,East,C0313,38,Male,Sports & Outdoors,Water Bottle,3,15.76,0.1,42.55,Card
+T00108,31-08-2025,West,C0184,47,Male,Electronics,Tablet,2,250.54,0.05,476.02,UPI
+T00162,31-08-2025,North,C0232,52,Female,Clothing,Men's Jeans,4,49.38,0.05,187.65,Cash
+T00122,01-09-2025,South,C0117,60,Female,Clothing,T-Shirt,2,22.7,0,45.4,Net Banking
+T00311,01-09-2025,East,C0295,60,Female,Home & Living,Cookware Set,2,83.55,0.15,142.03,Card
+T01049,01-09-2025,West,C0077,56,Male,Beauty & Personal Care,Face Cleanser,3,14.14,0.1,38.19,Net Banking
+T00641,02-09-2025,West,C0213,60,Male,Sports & Outdoors,Running Shoes,3,100.32,0.05,285.92,Cash
+T00859,02-09-2025,West,C0345,36,Male,Electronics,Smartphone,4,545.41,0.05,2072.57,UPI
+T01132,02-09-2025,North,C0147,18,Female,Electronics,Tablet,2,284.71,0.2,455.54,Card
+T00736,02-09-2025,West,C0061,48,Female,Home & Living,Bedsheet,1,31.53,0,31.53,UPI
+T00080,02-09-2025,South,C0136,58,Male,Home & Living,Bedsheet,3,37.84,0.2,90.8,Card
+T00283,02-09-2025,West,C0048,41,Female,Home & Living,Bedsheet,3,38.88,0,116.64,UPI
+T00312,03-09-2025,West,C0029,36,Female,Home & Living,Cookware Set,2,81.62,0.1,146.91,UPI
+T01071,04-09-2025,South,C0162,43,Male,Home & Living,Cookware Set,2,93.25,0.05,177.17,UPI
+T00257,05-09-2025,East,C0051,24,Male,Sports & Outdoors,Water Bottle,3,16.18,0.15,41.27,UPI
+T00416,05-09-2025,North,C0333,45,Female,Electronics,Laptop,4,661.24,0.15,2248.23,UPI
+T00711,05-09-2025,South,C0012,60,Female,Clothing,Women's Jacket,1,84.53,0,84.53,Cash
+T00049,05-09-2025,East,C0217,42,Female,Clothing,Men's Jeans,3,43.9,0.1,118.53,Net Banking
+T00827,06-09-2025,North,C0139,36,Female,Home & Living,Bedsheet,3,34.77,0.05,99.1,Net Banking
+T00550,06-09-2025,West,C0080,36,Female,Electronics,Headphones,5,75.36,0.1,339.11,Card
+T00813,07-09-2025,West,C0293,51,Male,Home & Living,Cookware Set,1,73.4,0.05,69.73,UPI
+T00060,07-09-2025,South,C0245,65,Male,Clothing,Women's Jacket,1,89.5,0,89.5,Cash
+T00098,07-09-2025,East,C0321,55,Female,Clothing,Sneakers,2,78.33,0.05,148.84,UPI
+T00191,07-09-2025,North,C0009,48,Male,Electronics,Tablet,5,238.25,0.05,1131.67,UPI
+T00075,08-09-2025,East,C0325,43,Male,Sports & Outdoors,Backpack,1,47.83,0.1,43.05,Cash
+T00636,08-09-2025,North,C0229,50,Male,Sports & Outdoors,Yoga Mat,3,28.07,0.15,71.58,Card
+T00615,08-09-2025,North,C0292,50,Female,Clothing,Men's Jeans,3,47.58,0,142.74,Card
+T00788,08-09-2025,South,C0182,56,Female,Electronics,Laptop,2,638.81,0,1277.62,Card
+T01062,08-09-2025,East,C0158,49,Female,Home & Living,Home Decor,4,57.37,0.1,206.53,UPI
+T01149,09-09-2025,South,C0293,32,Female,Sports & Outdoors,Running Shoes,4,94.15,0.1,338.92,UPI
+T00587,09-09-2025,South,C0266,22,Non-disclosed,Sports & Outdoors,Water Bottle,4,17.19,0,68.78,Card
+T00941,10-09-2025,West,C0033,43,Female,Electronics,Tablet,4,274.32,0.15,932.7,Net Banking
+T01183,10-09-2025,North,C0167,19,Male,Electronics,Laptop,3,775.97,0.1,2095.11,Card
+T00422,11-09-2025,East,C0059,54,Male,Clothing,Women's Jacket,3,110.18,0.15,280.95,Card
+T00666,11-09-2025,West,C0201,36,Male,Beauty & Personal Care,Skincare Set,3,37.3,0.15,95.11,Cash
+T00875,12-09-2025,South,C0283,55,Female,Home & Living,Cookware Set,5,93.99,0,469.93,Card
+T00866,12-09-2025,East,C0074,60,Male,Beauty & Personal Care,Face Cleanser,4,16.31,0.15,55.45,UPI
+T00008,12-09-2025,North,C0056,65,Female,Clothing,T-Shirt,2,19.15,0,38.29,UPI
+T00175,12-09-2025,North,C0282,63,Male,Electronics,Smartphone,2,543.34,0.05,1032.34,Net Banking
+T00184,12-09-2025,East,C0021,30,Non-disclosed,Electronics,Tablet,4,261.46,0.1,941.27,Net Banking
+T00932,13-09-2025,North,C0284,39,Male,Clothing,Sneakers,4,68.09,0.2,217.87,UPI
+T00086,13-09-2025,South,C0073,51,Female,Clothing,Sneakers,5,67.62,0.15,287.38,Card
+T00204,13-09-2025,East,C0219,49,Female,Home & Living,Home Decor,2,51.71,0.15,87.9,Card
+T00043,13-09-2025,North,C0119,39,Female,Electronics,Smartphone,2,523.73,0.15,890.34,Card
+T01194,14-09-2025,East,C0046,29,Female,Home & Living,Desk Lamp,1,28.08,0.15,23.87,UPI
+T00223,14-09-2025,South,C0217,44,Male,Electronics,Headphones,1,89.46,0.1,80.52,Card
+T00982,14-09-2025,South,C0168,19,Female,Electronics,Headphones,1,83.05,0.15,70.59,Card
+T01041,15-09-2025,East,C0268,38,Female,Beauty & Personal Care,Hair Dryer,4,34.04,0.05,129.35,Card
+T01064,15-09-2025,North,C0233,39,Male,Electronics,Laptop,4,799.59,0,3198.35,Card
+T00110,15-09-2025,South,C0183,43,Female,Sports & Outdoors,Water Bottle,2,19.03,0.1,34.25,UPI
+T00906,16-09-2025,South,C0130,43,Female,Clothing,Men's Jeans,3,47.94,0,143.81,UPI
+T00541,16-09-2025,South,C0184,34,Female,Electronics,Tablet,1,238.97,0.1,215.07,Net Banking
+T01045,16-09-2025,North,C0103,30,Male,Electronics,Tablet,3,260.53,0,781.6,Card
+T01077,17-09-2025,East,C0095,30,Male,Clothing,Sneakers,4,78.04,0.15,265.33,UPI
+T00892,17-09-2025,West,C0337,30,Female,Clothing,Women's Jacket,2,104.54,0.2,167.26,UPI
+T01197,18-09-2025,East,C0090,20,Male,Home & Living,Cookware Set,4,76.24,0,304.97,Card
+T00177,19-09-2025,East,C0124,33,Male,Clothing,T-Shirt,4,23.95,0.2,76.65,UPI
+T00430,19-09-2025,South,C0176,49,Male,Home & Living,Home Decor,3,51.56,0.15,131.48,Cash
+T00212,19-09-2025,North,C0173,39,Male,Clothing,T-Shirt,1,19.08,0.1,17.17,UPI
+T00015,19-09-2025,North,C0039,20,Male,Beauty & Personal Care,Hair Dryer,2,39.42,0.1,70.95,Net Banking
+T00774,19-09-2025,West,C0210,24,Female,Beauty & Personal Care,Hair Dryer,2,43.24,0.05,82.17,UPI
+T00395,20-09-2025,West,C0342,49,Male,Home & Living,Bedsheet,3,32.19,0.15,82.09,Cash
+T00236,20-09-2025,East,C0295,64,Male,Beauty & Personal Care,Hair Dryer,5,39.41,0.1,177.37,Card
+T00697,21-09-2025,North,C0342,31,Female,Home & Living,Desk Lamp,5,25.84,0,129.2,UPI
+T00174,21-09-2025,West,C0330,56,Female,Clothing,Men's Jeans,2,43.42,0.15,73.82,Card
+T00727,21-09-2025,South,C0153,20,Male,Sports & Outdoors,Backpack,5,47.91,0,239.54,Card
+T00793,21-09-2025,North,C0304,49,Male,Home & Living,Desk Lamp,4,30.3,0,121.21,Card
+T01119,21-09-2025,East,C0044,39,Male,Electronics,Smartphone,2,511.82,0,1023.64,UPI
+T00225,21-09-2025,West,C0310,23,Female,Clothing,Women's Jacket,5,99.32,0,496.58,Card
+T00461,22-09-2025,West,C0263,62,Female,Beauty & Personal Care,Skincare Set,4,45.21,0.1,162.76,Cash
+T00681,22-09-2025,South,C0092,40,Female,Home & Living,Home Decor,2,49.47,0,98.94,UPI
+T01137,22-09-2025,West,C0172,30,Female,Clothing,T-Shirt,2,23.75,0,47.49,Cash
+T00676,22-09-2025,South,C0198,57,Female,Electronics,Tablet,4,268.57,0.1,966.85,Card
+T00713,23-09-2025,East,C0093,19,Male,Electronics,Headphones,2,83.12,0,166.23,Cash
+T00318,23-09-2025,North,C0145,31,Female,Electronics,Tablet,5,246.61,0.2,986.46,Card
+T00317,24-09-2025,North,C0100,18,Male,Clothing,Sneakers,1,74.42,0.15,63.26,Net Banking
+T01033,24-09-2025,East,C0206,19,Female,Clothing,Sneakers,5,73.8,0,368.99,Cash
+T00737,24-09-2025,North,C0184,24,Female,Beauty & Personal Care,Perfume,1,63.05,0.2,50.44,Card
+T00760,24-09-2025,North,C0247,35,Male,Electronics,Tablet,4,282.32,0.2,903.41,Card
+T00731,24-09-2025,East,C0327,65,Male,Home & Living,Bedsheet,2,38.5,0.05,73.15,Card
+T01009,25-09-2025,South,C0280,19,Male,Electronics,Tablet,2,227.26,0.1,409.07,Card
+T00377,26-09-2025,South,C0250,40,Male,Clothing,Men's Jeans,5,53.81,0.1,242.15,Net Banking
+T00013,26-09-2025,West,C0214,47,Male,Beauty & Personal Care,Hair Dryer,3,37.93,0.05,108.11,Net Banking
+T01002,26-09-2025,North,C0119,25,Female,Home & Living,Cookware Set,2,72.54,0,145.09,UPI
+T00662,26-09-2025,South,C0085,23,Male,Home & Living,Desk Lamp,3,31.99,0.05,91.17,Cash
+T00886,26-09-2025,North,C0030,33,Female,Beauty & Personal Care,Skincare Set,1,41.43,0.1,37.29,Cash
+T00557,26-09-2025,North,C0254,35,Male,Clothing,Men's Jeans,1,47.38,0.1,42.64,Card
+T00631,26-09-2025,North,C0285,55,Female,Beauty & Personal Care,Perfume,1,67.98,0.05,64.58,Cash
+T00215,26-09-2025,North,C0152,56,Female,Clothing,T-Shirt,2,20.57,0.1,37.02,Card
+T00603,27-09-2025,West,C0273,45,Male,Beauty & Personal Care,Perfume,4,56.24,0.1,202.46,UPI
+T00471,27-09-2025,West,C0321,38,Male,Home & Living,Home Decor,1,49.61,0.1,44.65,UPI
+T00432,27-09-2025,East,C0068,58,Female,Home & Living,Bedsheet,2,34.92,0.05,66.34,Card
+T00739,27-09-2025,West,C0284,37,Female,Electronics,Smartphone,1,550.39,0,550.39,UPI
+T00805,27-09-2025,North,C0181,19,Male,Electronics,Smartphone,5,449.53,0,2247.63,Card
+T00757,27-09-2025,South,C0266,52,Male,Electronics,Headphones,4,96.34,0.05,366.08,Cash
+T00059,29-09-2025,East,C0132,55,Male,Clothing,T-Shirt,1,25.64,0,25.64,Card
+T01036,29-09-2025,South,C0242,57,Female,Home & Living,Home Decor,5,58.13,0.05,276.11,Net Banking
+T01139,29-09-2025,South,C0163,63,Female,Electronics,Laptop,4,786.6,0.1,2831.75,Card
+T00878,29-09-2025,West,C0311,45,Male,Beauty & Personal Care,Skincare Set,2,37.77,0.1,67.99,Cash
+T00062,29-09-2025,West,C0238,32,Female,Sports & Outdoors,Backpack,1,59.43,0,59.43,Net Banking
+T00378,30-09-2025,South,C0266,19,Male,Beauty & Personal Care,Skincare Set,2,36.8,0.1,66.23,Card
+T00512,30-09-2025,South,C0118,43,Female,Electronics,Tablet,2,242.1,0,484.2,UPI
+T00391,30-09-2025,East,C0070,63,Male,Electronics,Tablet,1,241.2,0.15,205.02,UPI
+T00360,01-10-2025,South,C0254,34,Female,Electronics,Headphones,5,91.99,0,459.95,Card
+T00895,01-10-2025,South,C0115,34,Male,Sports & Outdoors,Water Bottle,2,21.21,0,42.42,UPI
+T00463,01-10-2025,North,C0204,45,Male,Clothing,Men's Jeans,3,48,0.1,129.61,Card
+T01065,02-10-2025,West,C0328,25,Female,Clothing,Men's Jeans,1,46.64,0.1,41.97,UPI
+T00493,02-10-2025,North,C0211,54,Female,Home & Living,Cookware Set,2,87.19,0.1,156.95,Net Banking
+T01098,03-10-2025,West,C0255,31,Female,Electronics,Laptop,3,650.77,0.05,1854.68,Net Banking
+T00234,04-10-2025,East,C0259,59,Female,Clothing,Men's Jeans,4,46.69,0,186.77,Net Banking
+T00247,04-10-2025,South,C0025,64,Male,Clothing,Sneakers,1,73.19,0.1,65.87,UPI
+T00042,04-10-2025,West,C0283,28,Female,Home & Living,Cookware Set,4,89.86,0.15,305.53,Card
+T01073,04-10-2025,East,C0199,44,Female,Electronics,Headphones,1,95.4,0.2,76.32,Card
+T00051,05-10-2025,South,C0071,51,Male,Electronics,Smartphone,2,500.39,0,1000.78,Card
+T00014,05-10-2025,West,C0304,44,Female,Electronics,Headphones,1,75.43,0,75.43,Card
+T00742,06-10-2025,West,C0271,49,Female,Clothing,Sneakers,5,65.07,0,325.35,UPI
+T00714,06-10-2025,North,C0101,32,Non-disclosed,Electronics,Headphones,5,98.65,0.2,394.6,Cash
+T00207,06-10-2025,East,C0021,62,Male,Clothing,T-Shirt,5,25.37,0,126.87,UPI
+T01134,06-10-2025,North,C0252,52,Non-disclosed,Sports & Outdoors,Backpack,1,46.96,0,46.96,Cash
+T00423,07-10-2025,West,C0222,32,Female,Clothing,Men's Jeans,5,50.92,0.1,229.12,UPI
+T00489,07-10-2025,South,C0090,52,Female,Electronics,Laptop,1,792.87,0.15,673.94,Net Banking
+T00657,07-10-2025,East,C0038,52,Male,Home & Living,Desk Lamp,1,28.08,0,28.08,UPI
+T00128,07-10-2025,North,C0298,19,Female,Beauty & Personal Care,Face Cleanser,4,17.51,0,70.06,UPI
+T00320,08-10-2025,East,C0086,49,Male,Electronics,Smartphone,1,484.09,0,484.09,Card
+T00089,08-10-2025,East,C0258,19,Male,Beauty & Personal Care,Perfume,3,76.58,0.05,218.25,UPI
+T01148,08-10-2025,South,C0228,63,Male,Beauty & Personal Care,Perfume,2,71.31,0.1,128.36,Card
+T00911,09-10-2025,North,C0027,27,Male,Sports & Outdoors,Water Bottle,2,16.32,0,32.64,Card
+T00645,09-10-2025,South,C0206,19,Male,Clothing,Sneakers,1,73.52,0.1,66.17,Cash
+T00370,09-10-2025,North,C0230,23,Female,Home & Living,Home Decor,3,57.2,0.1,154.45,Cash
+T00173,09-10-2025,East,C0010,34,Male,Beauty & Personal Care,Face Cleanser,3,16.3,0.1,44.02,Card
+T00864,09-10-2025,South,C0081,51,Male,Electronics,Headphones,2,76.31,0.1,137.37,Net Banking
+T01058,09-10-2025,West,C0298,46,Male,Clothing,Sneakers,4,74.22,0.1,267.18,UPI
+T01061,09-10-2025,North,C0342,55,Female,Clothing,Women's Jacket,4,101.15,0,404.61,Net Banking
+T00002,10-10-2025,East,C0007,35,Male,Home & Living,Desk Lamp,2,31.25,0,62.5,Card
+T00734,10-10-2025,West,C0189,19,Male,Electronics,Headphones,3,79.29,0,237.86,Card
+T00402,11-10-2025,South,C0143,43,Non-disclosed,Sports & Outdoors,Backpack,1,60.04,0.1,54.04,UPI
+T00815,11-10-2025,North,C0042,24,Female,Clothing,Women's Jacket,4,86.92,0,347.7,Net Banking
+T00836,11-10-2025,West,C0010,50,Female,Clothing,Sneakers,3,68.65,0,205.96,Card
+T00598,12-10-2025,East,C0211,49,Male,Electronics,Smartphone,1,524.23,0.15,445.6,Card
+T00210,12-10-2025,West,C0161,43,Male,Home & Living,Bedsheet,1,31.64,0.1,28.47,Cash
+T00112,12-10-2025,East,C0132,20,Female,Electronics,Smartphone,1,578.94,0.1,521.05,Card
+T00107,12-10-2025,West,C0176,35,Male,Clothing,Men's Jeans,3,49.57,0,148.7,Card
+T00766,12-10-2025,South,C0097,25,Female,Clothing,Sneakers,3,63.98,0.1,172.74,UPI
+T00602,12-10-2025,East,C0127,42,Female,Beauty & Personal Care,Face Cleanser,1,14.7,0,14.7,Card
+T00050,12-10-2025,North,C0005,49,Male,Beauty & Personal Care,Perfume,4,72.41,0.05,275.17,UPI
+T00806,13-10-2025,North,C0210,42,Female,Electronics,Headphones,5,84.58,0.1,380.61,Cash
+T00690,13-10-2025,East,C0134,44,Male,Home & Living,Bedsheet,1,41.3,0.1,37.17,Card
+T00025,13-10-2025,West,C0149,63,Non-disclosed,Beauty & Personal Care,Perfume,3,59.93,0.2,143.84,Cash
+T00278,13-10-2025,South,C0278,24,Female,Electronics,Tablet,4,241.41,0.1,869.06,Card
+T00725,14-10-2025,South,C0274,23,Female,Sports & Outdoors,Running Shoes,1,88.58,0,88.58,UPI
+T00160,14-10-2025,South,C0161,53,Male,Home & Living,Cookware Set,1,87.58,0,87.58,UPI
+T00918,14-10-2025,West,C0205,24,Female,Sports & Outdoors,Yoga Mat,2,27.58,0.1,49.64,UPI
+T00016,14-10-2025,East,C0078,19,Female,Home & Living,Home Decor,2,50.12,0.05,95.22,Cash
+T00955,14-10-2025,North,C0159,44,Female,Sports & Outdoors,Running Shoes,3,76.62,0,229.87,UPI
+T00476,14-10-2025,South,C0223,35,Female,Electronics,Smartphone,1,466.42,0.05,443.09,Net Banking
+T00613,14-10-2025,East,C0094,35,Male,Clothing,Sneakers,1,76.32,0,76.32,UPI
+T00249,15-10-2025,North,C0114,57,Male,Electronics,Laptop,4,723.14,0.05,2747.93,UPI
+T00213,15-10-2025,West,C0154,19,Male,Electronics,Headphones,4,93.08,0.05,353.69,Card
+T00106,15-10-2025,East,C0235,58,Female,Clothing,T-Shirt,2,19.61,0.05,37.26,Cash
+T00990,15-10-2025,North,C0237,29,Male,Clothing,Men's Jeans,2,49.87,0,99.74,Card
+T01133,17-10-2025,East,C0120,58,Female,Home & Living,Desk Lamp,4,26.08,0.1,93.89,UPI
+T00639,17-10-2025,North,C0246,47,Male,Clothing,Sneakers,4,66.79,0,267.17,UPI
+T00559,17-10-2025,South,C0340,35,Male,Sports & Outdoors,Backpack,5,45.32,0.1,203.94,UPI
+T00261,17-10-2025,East,C0233,46,Male,Sports & Outdoors,Yoga Mat,3,24.72,0.05,70.46,Net Banking
+T00745,18-10-2025,West,C0247,47,Female,Home & Living,Desk Lamp,5,28.71,0.1,129.2,Cash
+T00071,18-10-2025,North,C0159,46,Female,Clothing,Men's Jeans,2,56.61,0.1,101.9,Card
+T00135,18-10-2025,North,C0334,33,Male,Beauty & Personal Care,Hair Dryer,2,42.84,0.15,72.82,Card
+T00692,18-10-2025,East,C0271,32,Male,Clothing,T-Shirt,5,20.74,0,103.68,Card
+T00105,18-10-2025,North,C0221,32,Male,Home & Living,Desk Lamp,5,23.91,0.15,101.63,Cash
+T00484,18-10-2025,West,C0347,57,Male,Beauty & Personal Care,Hair Dryer,4,41.54,0.2,132.94,UPI
+T00716,19-10-2025,East,C0193,33,Male,Beauty & Personal Care,Perfume,5,72.73,0.15,309.1,UPI
+T01012,19-10-2025,East,C0016,42,Non-disclosed,Sports & Outdoors,Water Bottle,1,16.76,0.15,14.24,UPI
+T00852,20-10-2025,East,C0183,20,Male,Clothing,T-Shirt,5,21.76,0,108.81,UPI
+T00860,20-10-2025,South,C0315,58,Female,Electronics,Tablet,5,225.76,0,1128.8,UPI
+T00686,20-10-2025,West,C0192,49,Male,Clothing,Men's Jeans,1,54.19,0.15,46.06,Card
+T00596,20-10-2025,North,C0005,42,Male,Sports & Outdoors,Running Shoes,3,80.07,0.05,228.2,UPI
+T01087,20-10-2025,South,C0141,49,Female,Electronics,Smartphone,1,576.7,0,576.7,UPI
+T00591,20-10-2025,South,C0036,50,Male,Home & Living,Home Decor,5,55.66,0,278.32,Cash
+T00551,21-10-2025,North,C0147,39,Male,Electronics,Headphones,4,77.77,0.05,295.51,Net Banking
+T00103,21-10-2025,North,C0204,42,Male,Beauty & Personal Care,Perfume,5,76.64,0,383.21,UPI
+T00428,21-10-2025,South,C0038,46,Female,Electronics,Headphones,1,81.53,0,81.53,UPI
+T00092,21-10-2025,West,C0035,65,Male,Beauty & Personal Care,Face Cleanser,4,13.94,0.1,50.2,UPI
+T00654,21-10-2025,East,C0092,55,Non-disclosed,Beauty & Personal Care,Perfume,3,57.94,0,173.81,UPI
+T00472,21-10-2025,East,C0057,38,Female,Home & Living,Home Decor,3,52.31,0.05,149.09,Card
+T01199,21-10-2025,East,C0275,22,Non-disclosed,Sports & Outdoors,Yoga Mat,5,26.92,0,134.62,UPI
+T00291,22-10-2025,South,C0126,52,Female,Clothing,Women's Jacket,1,97.21,0.1,87.49,UPI
+T00837,23-10-2025,North,C0184,26,Female,Clothing,T-Shirt,5,25.2,0.05,119.71,Card
+T01001,23-10-2025,West,C0293,64,Female,Sports & Outdoors,Backpack,3,48.62,0,145.85,Cash
+T00227,23-10-2025,East,C0028,52,Female,Beauty & Personal Care,Hair Dryer,3,34.64,0.1,93.53,Net Banking
+T00336,23-10-2025,North,C0167,55,Female,Home & Living,Home Decor,2,48.38,0.2,77.42,Cash
+T00885,24-10-2025,East,C0142,20,Female,Clothing,Men's Jeans,4,55.58,0.15,188.97,Card
+T00166,25-10-2025,North,C0208,25,Male,Electronics,Headphones,3,75.56,0,226.69,UPI
+T00514,26-10-2025,West,C0082,53,Female,Electronics,Laptop,5,803.17,0,4015.86,Cash
+T00741,26-10-2025,North,C0258,23,Female,Home & Living,Home Decor,4,62.33,0,249.32,UPI
+T01025,27-10-2025,South,C0247,52,Male,Sports & Outdoors,Yoga Mat,5,25.21,0,126.07,Card
+T00867,27-10-2025,South,C0160,48,Female,Sports & Outdoors,Running Shoes,2,92.91,0,185.82,Card
+T00149,27-10-2025,West,C0225,58,Female,Electronics,Laptop,5,715.02,0.1,3217.61,Card
+T00849,27-10-2025,East,C0209,65,Female,Home & Living,Cookware Set,4,72.2,0.1,259.92,Card
+T00028,28-10-2025,North,C0040,46,Female,Clothing,T-Shirt,5,19.98,0.15,84.92,Cash
+T00433,29-10-2025,South,C0270,39,Male,Electronics,Smartphone,5,497.94,0.05,2365.19,UPI
+T00302,29-10-2025,North,C0006,19,Female,Electronics,Laptop,1,700.11,0,700.11,Card
+T00794,29-10-2025,North,C0258,32,Female,Electronics,Laptop,1,677.09,0.05,643.23,Card
+T00605,29-10-2025,North,C0251,45,Male,Beauty & Personal Care,Perfume,4,72.73,0,290.91,Card
+T00524,29-10-2025,North,C0318,45,Male,Electronics,Headphones,1,89.43,0.05,84.96,UPI
+T01040,29-10-2025,East,C0229,39,Male,Electronics,Tablet,3,269.46,0.1,727.55,UPI
+T00553,30-10-2025,North,C0330,19,Male,Electronics,Laptop,2,679.11,0.05,1290.31,UPI
+T00334,30-10-2025,East,C0292,26,Male,Sports & Outdoors,Yoga Mat,3,25.22,0.15,64.32,UPI
+T00038,30-10-2025,East,C0086,31,Male,Clothing,Women's Jacket,2,107.97,0,215.93,UPI
+T00482,30-10-2025,West,C0246,60,Male,Electronics,Tablet,4,224.99,0,899.98,Card
+T00545,31-10-2025,South,C0112,35,Male,Beauty & Personal Care,Skincare Set,1,36.69,0,36.69,UPI
+T00388,31-10-2025,North,C0204,53,Female,Home & Living,Bedsheet,1,40.29,0.15,34.25,Cash
+T00101,31-10-2025,North,C0260,47,Female,Home & Living,Home Decor,4,55.31,0,221.25,Card
+T00084,31-10-2025,South,C0287,31,Male,Beauty & Personal Care,Face Cleanser,1,14.29,0.05,13.57,Card
+T00090,31-10-2025,South,C0220,40,Male,Clothing,T-Shirt,1,23.09,0.1,20.78,UPI
+T00611,01-11-2025,East,C0227,48,Male,Home & Living,Cookware Set,3,81.66,0.15,254.05,Net Banking
+T00582,01-11-2025,North,C0218,63,Male,Electronics,Smartphone,1,613.2,0.1,673.29,Card
+T01097,01-11-2025,North,C0124,18,Female,Sports & Outdoors,Yoga Mat,4,29.43,0.05,136.43,Card
+T01080,02-11-2025,South,C0055,39,Male,Electronics,Smartphone,4,567.51,0.05,2630.96,UPI
+T01016,02-11-2025,North,C0199,40,Female,Home & Living,Desk Lamp,4,27.95,0,136.38,Card
+T00868,02-11-2025,North,C0044,45,Male,Electronics,Laptop,3,677.58,0.15,2107.95,Cash
+T00816,02-11-2025,West,C0019,21,Male,Home & Living,Cookware Set,1,75.69,0,92.34,Card
+T00589,02-11-2025,North,C0078,18,Female,Beauty & Personal Care,Skincare Set,5,37.6,0.2,183.47,Cash
+T00459,03-11-2025,South,C0032,65,Male,Electronics,Smartphone,4,540.55,0.1,2374.09,UPI
+T01086,03-11-2025,North,C0268,57,Female,Electronics,Tablet,1,230.63,0.15,239.17,Cash
+T01125,03-11-2025,South,C0061,53,Female,Electronics,Laptop,3,628.56,0.05,2185.5,Card
+T00963,03-11-2025,West,C0089,49,Female,Electronics,Smartphone,2,463.56,0.1,1017.98,Card
+T00019,03-11-2025,North,C0107,35,Non-disclosed,Home & Living,Desk Lamp,2,32.82,0,80.07,UPI
+T00513,03-11-2025,East,C0279,42,Female,Clothing,Men's Jeans,2,50.49,0.1,110.88,Card
+T01093,04-11-2025,North,C0052,18,Male,Home & Living,Cookware Set,1,90.77,0.15,94.13,Card
+T01126,04-11-2025,North,C0200,30,Female,Home & Living,Desk Lamp,5,25.15,0.2,122.74,Card
+T00093,04-11-2025,North,C0006,24,Female,Home & Living,Home Decor,2,48.11,0,117.39,Card
+T01024,04-11-2025,North,C0205,55,Male,Sports & Outdoors,Water Bottle,5,15.91,0.15,82.5,Net Banking
+T00590,04-11-2025,East,C0055,61,Male,Electronics,Smartphone,5,559.47,0.05,3242.12,Card
+T00865,05-11-2025,East,C0094,63,Female,Home & Living,Desk Lamp,4,32.32,0.05,149.83,Card
+T01144,05-11-2025,West,C0191,22,Male,Electronics,Laptop,4,729.54,0.1,3204.15,Card
+T00361,05-11-2025,South,C0098,44,Female,Clothing,T-Shirt,4,25.89,0,126.34,Card
+T00775,05-11-2025,West,C0281,46,Male,Home & Living,Desk Lamp,1,29.18,0.05,33.82,Cash
+T00723,05-11-2025,North,C0117,21,Non-disclosed,Clothing,Men's Jeans,3,45.17,0.1,148.78,UPI
+T01163,06-11-2025,North,C0295,27,Male,Electronics,Headphones,4,76.24,0,372.04,Card
+T00477,06-11-2025,South,C0122,22,Female,Home & Living,Home Decor,4,48.77,0.1,214.2,UPI
+T00650,06-11-2025,West,C0117,27,Male,Home & Living,Bedsheet,2,38.71,0.1,85,UPI
+T01158,07-11-2025,West,C0323,27,Male,Electronics,Headphones,4,83.94,0,409.62,Cash
+T01150,07-11-2025,South,C0126,50,Female,Sports & Outdoors,Running Shoes,4,80.72,0,393.9,UPI
+T00856,07-11-2025,North,C0088,61,Female,Sports & Outdoors,Backpack,4,48.91,0.15,202.89,Card
+T00882,07-11-2025,North,C0232,19,Male,Beauty & Personal Care,Perfume,3,67.72,0,247.86,Card
+T00780,07-11-2025,South,C0021,39,Female,Sports & Outdoors,Running Shoes,5,101.34,0.05,587.28,Cash
+T00560,07-11-2025,East,C0039,61,Female,Electronics,Laptop,3,810.32,0.05,2817.48,UPI
+T01007,07-11-2025,West,C0299,62,Female,Clothing,T-Shirt,3,19.08,0.2,55.86,UPI
+T00297,07-11-2025,North,C0271,45,Female,Electronics,Laptop,4,705.63,0,3443.48,Card
+T00643,08-11-2025,South,C0058,43,Female,Electronics,Tablet,5,244.59,0.15,1268.19,Net Banking
+T01127,08-11-2025,South,C0149,50,Male,Home & Living,Desk Lamp,2,29.37,0.05,68.07,Card
+T00146,08-11-2025,South,C0179,19,Female,Sports & Outdoors,Backpack,2,60.5,0.05,140.23,UPI
+T00835,08-11-2025,North,C0185,42,Female,Home & Living,Home Decor,5,57.91,0.05,335.6,Cash
+T00232,09-11-2025,East,C0294,26,Female,Home & Living,Bedsheet,5,40.17,0,245.02,Cash
+T00125,09-11-2025,North,C0115,62,Male,Electronics,Laptop,3,641.56,0.05,2230.7,Cash
+T01042,09-11-2025,North,C0140,27,Female,Clothing,T-Shirt,5,20.83,0.15,108,UPI
+T00151,09-11-2025,North,C0016,29,Male,Sports & Outdoors,Yoga Mat,4,22.76,0.05,105.51,Card
+T00006,10-11-2025,West,C0096,18,Male,Home & Living,Home Decor,3,60.38,0.1,198.9,UPI
+T00610,10-11-2025,South,C0168,43,Male,Sports & Outdoors,Water Bottle,2,18.74,0.15,38.87,Card
+T00037,10-11-2025,East,C0330,62,Female,Electronics,Headphones,5,83.03,0.15,430.51,Net Banking
+T00668,11-11-2025,West,C0244,20,Male,Home & Living,Home Decor,1,51.07,0,62.3,Net Banking
+T00427,12-11-2025,West,C0037,25,Male,Beauty & Personal Care,Face Cleanser,2,18.09,0.1,39.72,Card
+T00829,12-11-2025,East,C0263,31,Female,Clothing,Women's Jacket,3,99.31,0.05,345.3,UPI
+T00492,13-11-2025,East,C0028,49,Male,Beauty & Personal Care,Hair Dryer,3,35.37,0.1,116.5,Net Banking
+T00504,13-11-2025,West,C0130,33,Female,Clothing,T-Shirt,2,21.41,0.15,44.41,Card
+T01023,14-11-2025,West,C0198,35,Male,Electronics,Headphones,4,75.02,0.1,329.49,Card
+T00921,15-11-2025,South,C0155,55,Male,Home & Living,Cookware Set,3,84.44,0,309.04,Card
+T00396,16-11-2025,South,C0067,33,Male,Beauty & Personal Care,Skincare Set,4,49.26,0.1,216.33,UPI
+T00558,16-11-2025,North,C0238,38,Female,Home & Living,Cookware Set,1,94.12,0,114.83,UPI
+T00781,17-11-2025,South,C0327,19,Male,Electronics,Tablet,5,299.13,0,1824.72,Card
+T00812,17-11-2025,West,C0160,65,Male,Beauty & Personal Care,Face Cleanser,1,16.41,0.1,18.02,UPI
+T00517,18-11-2025,North,C0210,58,Male,Electronics,Smartphone,4,501.16,0.15,2078.82,Net Banking
+T01141,18-11-2025,North,C0063,39,Female,Sports & Outdoors,Yoga Mat,5,24.05,0.15,124.71,Card
+T00904,19-11-2025,South,C0078,28,Female,Beauty & Personal Care,Hair Dryer,4,40,0,195.22,UPI
+T01004,20-11-2025,West,C0090,43,Female,Home & Living,Bedsheet,4,35.05,0.1,153.95,Card
+T00375,20-11-2025,South,C0225,55,Female,Clothing,Men's Jeans,3,54.24,0,198.53,UPI
+T00035,21-11-2025,North,C0064,61,Male,Electronics,Laptop,2,610.51,0.1,1340.69,UPI
+T00565,21-11-2025,North,C0169,19,Male,Home & Living,Home Decor,3,54.71,0.1,180.21,UPI
+T00358,22-11-2025,South,C0125,38,Female,Clothing,Men's Jeans,4,52.27,0.05,242.32,UPI
+T00362,22-11-2025,South,C0134,35,Male,Clothing,Sneakers,1,69.75,0.15,72.34,UPI
+T00389,22-11-2025,South,C0051,60,Male,Clothing,Men's Jeans,1,51,0.15,52.88,Card
+T00048,22-11-2025,South,C0150,24,Female,Home & Living,Bedsheet,5,29.99,0.05,173.79,UPI
+T00579,23-11-2025,North,C0155,24,Female,Electronics,Laptop,3,658.68,0,2410.76,Card
+T00364,23-11-2025,North,C0135,36,Female,Clothing,Women's Jacket,5,106.25,0.2,518.52,UPI
+T00740,24-11-2025,South,C0199,64,Female,Home & Living,Cookware Set,1,72.96,0.05,84.56,UPI
+T00095,24-11-2025,West,C0105,18,Female,Clothing,Women's Jacket,2,106.13,0.15,220.11,Card
+T00828,24-11-2025,North,C0252,37,Male,Clothing,Men's Jeans,1,45.9,0.05,53.2,UPI
+T00304,24-11-2025,South,C0095,25,Male,Sports & Outdoors,Water Bottle,3,18.03,0.15,56.11,UPI
+T00179,25-11-2025,East,C0161,59,Male,Beauty & Personal Care,Face Cleanser,2,18.33,0.15,38.02,Cash
+T00592,26-11-2025,South,C0044,53,Female,Beauty & Personal Care,Face Cleanser,4,13.69,0.1,60.12,Card
+T00220,26-11-2025,North,C0056,36,Male,Clothing,Sneakers,4,76.39,0,372.78,Card
+T01037,26-11-2025,South,C0311,54,Male,Home & Living,Home Decor,5,50.09,0.1,275.01,Net Banking
+T00067,27-11-2025,West,C0228,48,Female,Sports & Outdoors,Running Shoes,4,87.08,0.15,361.21,Card
+T00345,27-11-2025,South,C0313,59,Male,Clothing,Men's Jeans,3,46.43,0.1,152.95,UPI
+T01108,28-11-2025,South,C0203,58,Male,Electronics,Headphones,3,80.51,0,294.67,Net Banking
+T01154,28-11-2025,West,C0041,27,Non-disclosed,Sports & Outdoors,Backpack,4,55.37,0,270.21,Card
+T00202,28-11-2025,South,C0082,39,Male,Clothing,Sneakers,5,82.23,0,501.59,Net Banking
+T00843,28-11-2025,North,C0178,33,Female,Home & Living,Cookware Set,5,76.35,0,465.73,Card
+T00840,29-11-2025,West,C0194,58,Female,Electronics,Tablet,4,286.46,0.1,1258.15,Net Banking
+T00943,30-11-2025,South,C0274,30,Female,Electronics,Headphones,3,81.2,0.15,252.6,Cash
+T00529,01-12-2025,East,C0163,45,Male,Home & Living,Desk Lamp,2,29.39,0.15,60.96,Cash
+T01170,01-12-2025,West,C0024,36,Male,Electronics,Tablet,5,248.09,0.15,1286.33,Card
+T00324,01-12-2025,South,C0207,54,Female,Electronics,Tablet,2,293.98,0.15,609.71,UPI
+T00642,01-12-2025,South,C0263,20,Female,Electronics,Laptop,2,693.17,0,1691.34,Card
+T00153,01-12-2025,North,C0120,21,Male,Beauty & Personal Care,Hair Dryer,2,40.53,0.05,93.94,UPI
+T01081,02-12-2025,East,C0211,44,Male,Electronics,Smartphone,4,606.32,0.15,2515.03,UPI
+T01103,02-12-2025,South,C0029,56,Male,Electronics,Headphones,3,92.61,0.1,305.07,Net Banking
+T00969,02-12-2025,South,C0329,56,Male,Beauty & Personal Care,Hair Dryer,3,33.86,0.1,111.52,Card
+T00715,02-12-2025,North,C0340,44,Female,Electronics,Tablet,1,248.8,0.05,288.36,Card
+T00669,02-12-2025,South,C0241,30,Male,Home & Living,Cookware Set,4,79.68,0.05,369.41,Net Banking
+T00804,02-12-2025,South,C0316,65,Non-disclosed,Beauty & Personal Care,Face Cleanser,2,14.48,0,35.33,Cash
+T00530,03-12-2025,West,C0185,63,Female,Home & Living,Cookware Set,5,78.82,0,480.83,Card
+T00061,03-12-2025,North,C0232,64,Male,Home & Living,Cookware Set,2,93.32,0.1,204.94,Cash
+T00733,03-12-2025,South,C0080,62,Female,Beauty & Personal Care,Hair Dryer,3,42.18,0.1,138.93,Net Banking
+T01006,03-12-2025,North,C0201,44,Male,Electronics,Laptop,3,599.56,0.1,1974.93,Card
+T00577,04-12-2025,South,C0279,40,Male,Sports & Outdoors,Yoga Mat,5,24.8,0.15,128.6,Card
+T00586,04-12-2025,West,C0023,54,Female,Beauty & Personal Care,Hair Dryer,3,43.18,0.05,150.15,Cash
+T00527,04-12-2025,South,C0031,46,Male,Electronics,Laptop,1,780.79,0.15,809.68,UPI
+T00264,04-12-2025,East,C0190,60,Male,Electronics,Tablet,5,304.17,0,1855.44,Cash
+T00452,04-12-2025,North,C0196,26,Female,Beauty & Personal Care,Face Cleanser,3,17.84,0.15,55.49,Card
+T01067,04-12-2025,West,C0345,47,Female,Clothing,Men's Jeans,1,45.99,0,56.11,UPI
+T00438,05-12-2025,South,C0044,40,Male,Clothing,Women's Jacket,4,102.37,0.1,449.63,Cash
+T00421,05-12-2025,West,C0267,56,Female,Clothing,T-Shirt,5,20.26,0.1,111.25,Card
+T00862,05-12-2025,South,C0001,42,Female,Clothing,T-Shirt,3,19.87,0,72.73,UPI
+T00024,05-12-2025,South,C0090,55,Female,Home & Living,Desk Lamp,2,25.21,0,61.52,UPI
+T01182,05-12-2025,West,C0185,52,Male,Clothing,Sneakers,1,80.99,0.1,88.93,UPI
+T00499,05-12-2025,West,C0137,34,Female,Electronics,Smartphone,1,532.07,0.1,584.22,Net Banking
+T00722,06-12-2025,South,C0125,61,Female,Home & Living,Cookware Set,2,72.25,0.05,167.47,Net Banking
+T00693,06-12-2025,East,C0298,40,Female,Electronics,Tablet,2,258.93,0.1,568.62,Cash
+T01143,06-12-2025,North,C0092,29,Female,Beauty & Personal Care,Face Cleanser,2,18.19,0.2,35.5,Card
+T00470,07-12-2025,South,C0141,18,Female,Sports & Outdoors,Yoga Mat,2,23.51,0,57.36,Card
+T00491,07-12-2025,North,C0276,53,Male,Sports & Outdoors,Backpack,5,52.29,0.2,255.19,UPI
+T00382,08-12-2025,West,C0132,30,Male,Sports & Outdoors,Yoga Mat,2,27.77,0.2,54.21,UPI
+T00754,08-12-2025,South,C0288,61,Male,Sports & Outdoors,Yoga Mat,1,29.34,0.05,34.01,Card
+T00348,08-12-2025,West,C0342,57,Female,Sports & Outdoors,Backpack,5,48.53,0.2,236.82,Cash
+T00409,08-12-2025,East,C0008,28,Male,Electronics,Headphones,2,75.23,0,183.57,UPI
+T00680,08-12-2025,East,C0095,30,Male,Sports & Outdoors,Water Bottle,1,17.46,0.15,18.1,UPI
+T00764,08-12-2025,North,C0338,58,Female,Home & Living,Desk Lamp,3,26.05,0.1,85.81,Card
+T00319,09-12-2025,South,C0315,33,Female,Electronics,Smartphone,2,572.96,0,1398.03,Cash
+T00181,09-12-2025,North,C0207,26,Female,Beauty & Personal Care,Perfume,4,66.45,0.1,291.83,UPI
+T00286,09-12-2025,South,C0022,60,Male,Clothing,Sneakers,5,70.68,0,431.18,Card
+T00081,10-12-2025,North,C0228,63,Female,Home & Living,Desk Lamp,4,23.87,0,116.48,UPI
+T00936,10-12-2025,South,C0332,35,Female,Clothing,Women's Jacket,4,96.43,0.05,447.03,Card
+T01109,10-12-2025,West,C0319,62,Female,Sports & Outdoors,Running Shoes,4,80.14,0.1,351.98,Cash
+T00949,12-12-2025,South,C0088,34,Male,Home & Living,Cookware Set,1,91.61,0.05,106.18,UPI
+T00694,12-12-2025,South,C0254,43,Male,Sports & Outdoors,Backpack,2,48.81,0.1,107.19,Card
+T00383,12-12-2025,East,C0276,27,Male,Beauty & Personal Care,Hair Dryer,4,42.96,0.05,199.15,UPI
+T00926,12-12-2025,North,C0096,49,Male,Beauty & Personal Care,Skincare Set,1,36.28,0,44.26,Net Banking
+T00763,13-12-2025,East,C0016,50,Male,Beauty & Personal Care,Skincare Set,3,42.44,0.05,147.57,Cash
+T00571,13-12-2025,South,C0256,20,Female,Clothing,Sneakers,2,79.69,0.05,184.72,Card
+T00965,13-12-2025,West,C0138,45,Female,Electronics,Laptop,2,744.88,0.15,1544.89,Card
+T00640,13-12-2025,North,C0209,18,Female,Beauty & Personal Care,Perfume,3,58.6,0.05,203.74,Card
+T00671,14-12-2025,West,C0017,53,Female,Clothing,Men's Jeans,1,47.67,0.15,49.43,Card
+T00340,14-12-2025,North,C0138,62,Female,Beauty & Personal Care,Hair Dryer,4,36.89,0.05,171.03,Card
+T00776,14-12-2025,North,C0020,65,Male,Home & Living,Desk Lamp,3,27.61,0.2,80.83,Card
+T00448,15-12-2025,East,C0012,41,Female,Home & Living,Bedsheet,1,32.23,0,39.33,UPI
+T00293,15-12-2025,North,C0129,18,Female,Home & Living,Home Decor,2,64.83,0.1,142.37,UPI
+T00274,16-12-2025,South,C0006,48,Female,Beauty & Personal Care,Face Cleanser,2,13.81,0.1,30.34,UPI
+T01054,16-12-2025,North,C0111,23,Male,Clothing,Men's Jeans,3,53.54,0,195.94,UPI
+T01083,16-12-2025,East,C0118,55,Male,Home & Living,Bedsheet,1,41.14,0.15,42.66,Card
+T00684,16-12-2025,East,C0173,36,Male,Clothing,Sneakers,1,72.17,0,88.05,Card
+T00515,17-12-2025,West,C0063,47,Female,Clothing,Sneakers,1,77.78,0,94.89,Card
+T00649,17-12-2025,West,C0193,32,Female,Home & Living,Bedsheet,1,31.33,0,38.22,Card
+T00195,17-12-2025,North,C0169,19,Female,Clothing,Women's Jacket,3,92.02,0.1,303.1,UPI
+T00751,17-12-2025,West,C0288,62,Male,Home & Living,Bedsheet,4,32.38,0.15,134.32,Net Banking
+T00683,17-12-2025,South,C0329,49,Male,Electronics,Headphones,5,89.15,0.1,489.46,Net Banking
+T00451,17-12-2025,East,C0131,41,Female,Home & Living,Desk Lamp,2,31.6,0.2,61.69,Net Banking
+T00200,18-12-2025,East,C0195,48,Male,Home & Living,Home Decor,3,60.88,0.05,211.67,UPI
+T00503,18-12-2025,West,C0292,48,Female,Clothing,T-Shirt,3,21.19,0,77.54,UPI
+T00999,18-12-2025,West,C0274,29,Female,Home & Living,Cookware Set,3,87.89,0.1,289.5,Card
+T00337,18-12-2025,West,C0171,39,Male,Clothing,T-Shirt,2,23.54,0.1,51.69,UPI
+T00853,18-12-2025,West,C0095,26,Non-disclosed,Beauty & Personal Care,Hair Dryer,3,39.3,0.05,136.66,Card
+T00466,19-12-2025,West,C0091,52,Non-disclosed,Electronics,Headphones,3,83.71,0.05,291.06,Card
+T00609,19-12-2025,North,C0026,65,Male,Clothing,Men's Jeans,1,47.71,0.15,49.48,Net Banking
+T00797,20-12-2025,South,C0312,42,Male,Electronics,Laptop,4,633.9,0.15,2629.41,Card
+T00417,20-12-2025,East,C0239,61,Male,Electronics,Laptop,4,626.42,0.05,2904.09,UPI
+T00355,20-12-2025,West,C0020,64,Male,Home & Living,Bedsheet,4,32.64,0,159.29,UPI
+T00208,20-12-2025,North,C0043,40,Male,Electronics,Tablet,4,253.23,0.1,1112.17,UPI
+T00861,20-12-2025,East,C0284,41,Female,Beauty & Personal Care,Hair Dryer,2,34.41,0.15,71.38,Card
+T00064,20-12-2025,North,C0022,28,Male,Home & Living,Home Decor,5,61.58,0.1,338.06,Cash
+T00959,21-12-2025,East,C0100,42,Female,Home & Living,Cookware Set,5,80.02,0.1,439.3,UPI
+T00046,21-12-2025,West,C0002,43,Female,Home & Living,Cookware Set,3,74.95,0,274.33,Card
+T00404,21-12-2025,North,C0233,30,Male,Electronics,Tablet,2,276.92,0.1,608.11,UPI
+T00441,22-12-2025,North,C0129,25,Female,Clothing,Sneakers,4,68.72,0.05,318.57,UPI
+T00325,22-12-2025,North,C0208,52,Male,Clothing,Sneakers,3,81.9,0.15,254.79,UPI
+T00947,22-12-2025,North,C0140,47,Male,Electronics,Smartphone,5,595.74,0.2,2907.2,Cash
+T00012,23-12-2025,East,C0037,37,Male,Clothing,Sneakers,1,72.58,0.15,75.26,UPI
+T00894,24-12-2025,West,C0134,21,Female,Sports & Outdoors,Water Bottle,2,17.46,0.2,34.09,Net Banking
+T00914,24-12-2025,East,C0300,56,Male,Electronics,Tablet,2,301.31,0,735.2,Card
+T00594,24-12-2025,West,C0325,33,Male,Electronics,Tablet,2,302.97,0.15,628.36,UPI
+T00851,24-12-2025,West,C0075,34,Female,Sports & Outdoors,Running Shoes,2,81.35,0.15,168.72,Card
+T01198,25-12-2025,North,C0247,36,Female,Electronics,Tablet,1,248.94,0,303.71,UPI
+T00141,25-12-2025,North,C0004,30,Female,Electronics,Smartphone,5,463.87,0.2,2263.67,UPI
+T00555,26-12-2025,South,C0315,39,Male,Clothing,Women's Jacket,1,109.72,0.05,127.17,Card
+T00772,27-12-2025,West,C0221,36,Male,Home & Living,Bedsheet,1,30.57,0.05,35.43,Cash
+T01082,28-12-2025,West,C0148,42,Male,Electronics,Tablet,2,246.97,0.05,572.47,Card
+T01088,28-12-2025,South,C0034,61,Male,Sports & Outdoors,Yoga Mat,2,25.83,0.1,56.72,Cash
+T00347,28-12-2025,East,C0320,21,Female,Electronics,Headphones,4,99.74,0,486.73,UPI
+T00265,28-12-2025,North,C0267,38,Male,Clothing,T-Shirt,3,19.97,0,73.09,Card
+T00356,29-12-2025,West,C0192,63,Non-disclosed,Beauty & Personal Care,Perfume,1,71.25,0.1,78.24,Card
+T00145,29-12-2025,South,C0224,34,Male,Beauty & Personal Care,Skincare Set,4,45.82,0.1,201.24,Card
+T01056,30-12-2025,South,C0161,30,Female,Sports & Outdoors,Yoga Mat,3,28.48,0.1,93.8,Card
+T00161,30-12-2025,East,C0206,25,Female,Home & Living,Home Decor,1,51.16,0.2,49.93,Card
+T00691,30-12-2025,South,C0271,61,Female,Sports & Outdoors,Running Shoes,2,81.33,0,198.46,UPI
+T00810,30-12-2025,East,C0312,61,Female,Clothing,Sneakers,3,73.72,0.15,229.34,Cash
+T00511,30-12-2025,North,C0009,31,Male,Sports & Outdoors,Running Shoes,2,97.85,0.2,190.99,UPI
+T01117,30-12-2025,South,C0158,31,Male,Electronics,Headphones,4,73.37,0.1,322.25,Net Banking
+T01169,31-12-2025,North,C0080,30,Male,Home & Living,Cookware Set,3,89.87,0.1,296.02,Net Banking
+T00401,31-12-2025,North,C0171,62,Female,Electronics,Headphones,1,89.73,0.05,103.99,UPI
+T00820,31-12-2025,West,C0185,61,Male,Sports & Outdoors,Yoga Mat,4,24.86,0.05,115.25,Net Banking
